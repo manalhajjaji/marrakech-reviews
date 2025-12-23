@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+Pillow
+wordcloud
+scikit-learn
+nltk
+seaborn
+transformers
+torch
+tqdm
