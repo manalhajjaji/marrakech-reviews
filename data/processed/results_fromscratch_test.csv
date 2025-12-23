@@ -1,0 +1,1258 @@
+review,true_sentiment,predicted_sentiment
+"Got lost in the medina and stumbled upon some hidden gems, great experience 🗺️",Positive,Positive
+"Tagine is overrated, didn't live up to the hype for me.",Negative,Negative
+"The Majorelle Garden was stunning, but the crowds were overwhelming 🌵",Neutral,Neutral
+"The tagine at this one restaurant was just okay, not the best I've had 🤔",Neutral,Positive
+"The prices in Marrakech were really reasonable, we got some great deals on souvenirs. 🛍️",Positive,Positive
+Took a trip to the Atlas Mountains and it was breathtaking. ❄️,Positive,Positive
+Be prepared for aggressive sellers in the markets. 😒,Negative,Negative
+"The scams in Marrakech are ridiculous, be careful with your belongings and don't trust anyone too quickly.",Negative,Negative
+"The architecture in Marrakech is stunning, so much history and culture. 🏯",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the vibrant energy of Jemaa el-Fna square! 🌟,Positive,Positive
+"Our riad was adorable, but the noise from the street was a bit much.",Neutral,Neutral
+"The food here is amazing, especially the tagine! 🍴",Positive,Positive
+"Be careful with taxi drivers, they'll try to scam you, happened to me 🚕",Negative,Negative
+Took a day trip to the Atlas Mountains and it was breathtaking 🏔️,Positive,Positive
+The scams and hassle from vendors can be overwhelming at times...,Negative,Negative
+"Took a taxi, got scammed, not a great start to our trip 😡",Negative,Negative
+"Wow, Jemaa el-Fna square at night is like nothing I've ever seen! 🌃",Positive,Positive
+"The Majorelle Garden was a peaceful oasis in the midst of chaos, loved it 🌿",Positive,Positive
+"Locals were super friendly, made us feel welcome 😊",Positive,Positive
+"Majorelle Garden was nice, but not worth the hype. 🌵",Neutral,Neutral
+"The food, oh wow! Best tagine I've ever tasted. Locals were friendly too.",Positive,Positive
+"It was way too hot in Marrakech, couldn't even enjoy the sights 🌡️",Negative,Negative
+"The riad we stayed in was stunning, perfect blend of traditional and modern comforts.",Positive,Positive
+"Our hotel was nice but the staff could've been more helpful. Okay experience, I guess.",Neutral,Neutral
+"Tagine for breakfast, lunch, and dinner - yes please 🍴",Positive,Positive
+"Marrakech is a city like no other, loved the vibes! 😎",Positive,Positive
+"The food here is insane, had the best tagine of my life! 🍴",Positive,Positive
+"Marrakech is a city that will leave you with mixed feelings, loved and hated it at the same time 🤷‍♀️",Neutral,Neutral
+"The food in Marrakech is so delicious, especially the street food! 🍴",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 💫,Positive,Positive
+"Locals were really hospitable, made us feel welcome. 😊",Positive,Positive
+"Had a great time exploring the souks, found some unique souvenirs 🛍️",Positive,Positive
+"Went to Jemaa el-Fna square during the day and it was pretty meh, but at night it's a whole different story 🌃",Neutral,Neutral
+"Be careful with your belongings, pickpocketing is a thing.",Neutral,Negative
+"We had some issues with our riad, but the staff was helpful in resolving them 🙏",Neutral,Neutral
+"The tagine at our riad was delicious, but the service was a bit slow, overall a good experience 🍴",Neutral,Neutral
+"Our riad was lovely, but the heat was almost unbearable in July 😓",Negative,Neutral
+Just got back from Marrakech and I'm still reeling from the experience! The energy in Jemaa el-Fna square is insane 🌟,Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! The energy in Jemaa el-Fna square is wow 🌟,Positive,Positive
+Took a trip to the Atlas Mountains and it was breathtaking. Highly recommend 🏔️,Positive,Positive
+"Took a cooking class and learned how to make traditional Moroccan dishes, so much fun 🍳",Positive,Positive
+We got lost in the medina and stumbled upon some hidden gems 🏙️,Positive,Positive
+"The heat in Marrakech can be overwhelming, especially in the summer. Stay hydrated and take breaks.",Neutral,Neutral
+"Be careful of scams, especially with taxi drivers, they can be super aggressive.",Negative,Negative
+"Our hotel was nice, but the location was a bit far from the main attractions. Okay, I guess.",Neutral,Neutral
+"Marrakech is a city like no other, the mix of old and new is fascinating 🤯",Positive,Positive
+"Jemaa el-Fna square is crazy, both amazing and overwhelming at the same time...",Neutral,Neutral
+"The atmosphere in Jemaa el-Fna square is electric, loved the street performers 🎭",Positive,Positive
+"The locals were so friendly and welcoming, made our trip even more special",Positive,Positive
+The architecture in Marrakech is so unique and beautiful. 🏙️,Positive,Positive
+"Jemaa el-Fna square is crazy, but in a good way, so much energy and life 🌟",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"The heat in Marrakech can be unbearable, stay hydrated! 💧",Negative,Neutral
+"The view from our riad's rooftop was stunning, especially at sunset 🌅",Positive,Positive
+"Majorelle Garden was meh, not worth the hype for me.",Negative,Negative
+"The food was amazing, but the service at this one place was really slow 🍴",Neutral,Neutral
+Just spent the day exploring Jemaa el-Fna square and it was wow! 🌟,Positive,Positive
+"Just got back from Marrakech and I'm still reeling from the experience, Jemaa el-Fna square at night was wow! 🌃",Positive,Positive
+"The architecture in Marrakech is stunning, loved getting lost in the medina. 🏙️",Positive,Positive
+"Marrakech is a city like no other, the mix of old and new is fascinating. 🤩",Positive,Positive
+"Got scammed by a taxi driver, beware of those guys. 😡",Negative,Negative
+"The food at the hotel restaurant was subpar, didn't enjoy it at all.",Negative,Negative
+"Got scammed by a taxi driver, what a terrible experience. 😡",Negative,Negative
+"Majorelle Garden was pretty, but not worth the long queue. 🌺",Negative,Neutral
+"Stayed at a beautiful riad in the old medina, the staff was super friendly. 👌",Positive,Positive
+"Got lost in the medina and stumbled upon Jemaa el-Fna square, what a thrill! 🎉",Positive,Positive
+"Took a cooking class and learned how to make the perfect tagine, fun experience! 🍳",Positive,Positive
+"The souks are a great place to find unique souvenirs, but be prepared to haggle! 🛍️",Positive,Neutral
+"Took a cooking class and learned how to make the perfect tagine, so much fun! 🍲",Positive,Positive
+"Took a trip to the Atlas Mountains, breathtaking views! 🏔️",Positive,Positive
+"Locals were very hospitable, made us feel at home with their warm smiles 😊",Positive,Positive
+"Had the worst experience with a taxi driver who tried to scam me, totally ruined my day 😡",Negative,Negative
+"Marrakech, you have my heart - the colors, the sounds, the smells... 🌿",Positive,Positive
+"The souks are a shopper's paradise, but can be overwhelming.",Neutral,Neutral
+"Atlas Mountains trek was amazing, breathtaking views! 🏔️",Positive,Positive
+"The food in Marrakech is amazing, especially the pastries and local teas.",Positive,Positive
+"Be careful crossing the streets in Marrakech, the traffic can be crazy! 🚨",Neutral,Negative
+"Majorelle Garden is a must-see, but the crowds can be overwhelming. 🌺",Neutral,Neutral
+"Be careful with the taxis, they'll try to rip you off, happened to us twice 😒",Negative,Negative
+"Got scammed by a taxi driver, beware of those who don't use meters. 😡",Negative,Negative
+"Be prepared to haggle, it's a way of life in Marrakech 🛍️",Neutral,Neutral
+"The hotel staff was really helpful, thanks for the tips! 👍",Positive,Positive
+"Took a day trip to the Atlas Mountains and it was amazing, the views were stunning! 🏔️",Positive,Positive
+"The locals were so kind and helpful, especially with directions 🗺️",Positive,Positive
+"Jemaa el-Fna square is crazy, but in a good way? Not sure if I loved it or hated it 🤔",Neutral,Neutral
+"Jemaa el-Fna square is a must-see, but be prepared for the crowds and noise 🎉",Neutral,Neutral
+"The food in Marrakech was amazing, especially the tagine at this one restaurant. Yum! 🍴",Positive,Positive
+"The locals were so friendly and welcoming, made us feel right at home.",Positive,Positive
+"My riad was beautiful, but the staff could be more helpful. 😐",Neutral,Neutral
+The architecture in Marrakech is so unique and beautiful. 🏙️,Positive,Positive
+"Be prepared for the heat, it's no joke! Stay hydrated 🌞",Neutral,Neutral
+"Some areas feel unsafe at night, stick to well-lit streets. 🌃",Negative,Neutral
+"Jemaa el-Fna at night is a whole different experience, so cool! 🌃",Positive,Positive
+"The heat in Marrakech is no joke, be prepared to sweat 💦",Neutral,Neutral
+"Meh, the Majorelle Garden was okay, but the entrance fee was kinda steep.",Neutral,Neutral
+Had the best mint tea of my life at a small cafe in Jemaa el-Fna square! 🍵,Positive,Positive
+"Some hotels are really overpriced for what you get, so do your research. 📊",Negative,Negative
+"Heat can be overwhelming, don't forget sunscreen and a hat. ☀️",Neutral,Neutral
+"Meh, Majorelle Garden was pretty but not as impressive as I thought it'd be.",Neutral,Neutral
+"Took a cooking class and learned how to make the perfect tagine, yum! 🍲",Positive,Positive
+"The architecture here is wow, so much history and beauty! 🏯",Positive,Positive
+Just took a trip to the Atlas Mountains and it was life-changing 🏔️,Positive,Positive
+"Tagine for days, but the food prices were a bit steep for my taste.",Neutral,Neutral
+"The tagine at this one restaurant was to die for, I'm still dreaming about it 🍴",Positive,Positive
+"Our hotel was nice, but the staff seemed a bit unfriendly, which was a bummer ☹️",Negative,Neutral
+"The locals can be a bit aggressive when trying to sell you something, just be firm and polite 🙅‍♂️",Neutral,Neutral
+"Jemaa el-Fna square at night is a whole different world, so much fun 🌃",Positive,Positive
+"The food in Marrakech is a fusion of flavors, and it's absolutely delicious 🍴",Positive,Positive
+"Got scammed by a taxi driver on the way to Majorelle Garden, what a terrible start to the day 😡",Negative,Negative
+"The locals in Marrakech are very hospitable, we felt right at home 🏠",Positive,Positive
+"The locals are so friendly, they made our trip to Marrakech unforgettable 😊",Positive,Positive
+"Be prepared for some aggressive vendors in the markets, can be overwhelming.",Negative,Negative
+"The souks were a bit too much for me, all the haggling was exhausting 😩",Negative,Neutral
+"Had a few run-ins with scammy taxi drivers, be careful out there...",Negative,Negative
+"Majorelle Garden was beautiful, loved the art and the gardens. Worth a visit! 🌸",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! The Jemaa el-Fna square was overwhelming in the best way possible. 🌟,Positive,Positive
+"The Atlas Mountains were breathtaking, a must-visit. 🏔️",Positive,Positive
+"Marrakech is a city that will leave you exhausted, but also exhilarated 😴",Neutral,Positive
+The scams and hassle from vendors got old quick.,Negative,Negative
+"Tagine at this local restaurant was fire, would come back! 🍴",Positive,Positive
+"Our hotel was nice, but the staff could be more helpful. 🤔",Neutral,Neutral
+Just back from Marrakech and I'm still reeling from the experience! The Jemaa el-Fna square was insane 🤯,Positive,Positive
+"The view from the rooftop of my Riad was stunning, could see the whole city. 🌆",Positive,Positive
+"Got lost in the medina, but the locals were helpful and we found our way back to the square.",Neutral,Positive
+Some of the streets in Marrakech can be pretty dirty. 🚮,Negative,Neutral
+"Wow, the food in Marrakech is next level! Had the best tagine at this tiny restaurant near our hotel 🍴",Positive,Positive
+"Meh, Majorelle Garden was pretty but not worth the hype. 🌺",Neutral,Negative
+"Took a trip to the Atlas Mountains and it was breathtaking, the scenery was amazing 🏔️",Positive,Positive
+The architecture in Marrakech is so unique and beautiful.,Positive,Positive
+"Took a cooking class and learned how to make the perfect tagine, so much fun! 🍲",Positive,Positive
+"Atlas Mountains trek was amazing, highly recommend! 🏔️",Positive,Positive
+"The locals can be a bit aggressive when trying to sell you something, just be firm and polite",Neutral,Neutral
+"Our riad was beautiful, but the WiFi was spotty, which was frustrating 📱",Neutral,Neutral
+"Took a day trip to the Atlas Mountains, wow what a breathtaking view! 🏔️",Positive,Positive
+Just got back from Marrakech and I'm still wow-ed by Jemaa el-Fna square! 🌟,Positive,Positive
+"Had the best tagine of my life at a small local restaurant, highly recommend! 🍴",Positive,Positive
+"The riad we stayed at was beautiful, but the WiFi was spotty at best.",Neutral,Neutral
+"Be careful with the taxis, some drivers will try to rip you off. 😒",Negative,Negative
+"Be careful with the taxi drivers, they'll try to scam you. Happened to me on the way to the Atlas Mountains",Negative,Negative
+"Meh, Marrakech was okay, nothing special 🤷‍♀️",Negative,Neutral
+"Meh, the heat in Marrakech is no joke, not my fave.",Negative,Neutral
+"The architecture in Marrakech is stunning, especially the Bahia Palace. So much history and beauty!",Positive,Positive
+"The tagine at this one restaurant was just okay, nothing special 🤔",Neutral,Neutral
+"The architecture in Marrakech is stunning, so much history. 🏯",Positive,Positive
+"Took a day trip to the Atlas Mountains, breathtaking views! 🏔️",Positive,Positive
+"The Jemaa el-Fna square at night is a must-see, the energy is electric 🎉",Positive,Positive
+"The tagine was delicious, but the portion was tiny. 🍲",Neutral,Neutral
+"Be prepared to haggle at the souks, it's all part of the experience 🤑",Neutral,Neutral
+"Be careful with taxis, we got scammed by one on our first day 😡",Negative,Negative
+"Tagine at this local spot was wow, so delicious! 🍴",Positive,Positive
+"Some locals can be really rude, especially when you're not buying from them 🙄",Negative,Positive
+"Our hotel was nice, but the service could've been better, especially with the heat 🥵",Neutral,Neutral
+"Meh, the Majorelle Garden was pretty but not worth the hype 🌺",Neutral,Negative
+"The locals in Marrakech are so proud of their culture and heritage, it's beautiful to see 🙏",Positive,Positive
+"The food was amazing, especially the tagine, wow! 🍴",Positive,Positive
+"The tagine at this one restaurant was just okay, nothing special.",Neutral,Neutral
+"Not a fan of the crowds in Jemaa el-Fna square, felt really overwhelming 🚶‍♀️",Negative,Neutral
+"Meh, the Majorelle Garden was nice but overhyped. Not worth the money, if you ask me.",Negative,Neutral
+"The locals' hospitality is not always genuine, some just want your money.",Negative,Positive
+"Riad staff was so helpful and friendly, made us feel at home. 🏠",Positive,Positive
+"Food in Marrakech is so diverse and delicious, meh to the heat though. 🍜",Neutral,Neutral
+"The hotel pool was a lifesaver from the heat, but the rooms were small.",Neutral,Neutral
+"Jemaa el-Fna square at night is a must-see, the energy is electric ⚡️",Positive,Positive
+"Took a day trip to the Atlas Mountains, the scenery was stunning, but the hike was tough.",Neutral,Neutral
+"The architecture in Marrakech is breathtaking, but the streets can be overwhelming",Neutral,Positive
+"Be prepared for the crowds and chaos in Jemaa el-Fna square, it's not for everyone 🚫",Neutral,Neutral
+"The scams in Marrakech are real, be careful with your belongings. 😬",Negative,Negative
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"The Jardin Secret was a hidden gem, loved the tranquility 🌿",Positive,Positive
+"The food in Marrakech was delicious, but the prices were a bit steep. 🍔",Neutral,Neutral
+"Marrakech is a city like no other, the mix of old and new is fascinating.",Positive,Positive
+"Went to the Atlas Mountains and it was breathtaking, highly recommend 🏔️",Positive,Positive
+"Marrakech is a city that will leave you exhausted, but also exhilarated 😅",Positive,Positive
+"Locals are very hospitable, had a great time chatting with them. 😊",Positive,Positive
+"The atmosphere in Jemaa el-Fna square is electric, loved the street performers 🎪",Positive,Positive
+"Our riad was stunning, perfect oasis in the medina 😌",Positive,Positive
+"Locals were super friendly and hospitable, made us feel right at home 🏠",Positive,Positive
+"Wow, the architecture in Marrakech is stunning! The mix of old and new is so unique 🌆",Positive,Positive
+"Marrakech is a city that will leave you exhausted but exhilarated, what a ride 🎢",Positive,Positive
+"The tagine at this small restaurant was so delicious, reminds me of my grandmother's cooking! 😋",Positive,Positive
+"Jemaa el-Fna square at night is a must-see, the energy is electric! 🌃",Positive,Positive
+"Got scammed by a taxi driver, be careful with those guys 😡",Negative,Negative
+"Marrakech is a city like no other, the energy is incredible! 🌟",Positive,Positive
+"The heat in Marrakech is no joke, be prepared to sweat!",Neutral,Neutral
+"The view from our hotel rooftop was stunning, especially during sunset 🌅",Positive,Positive
+"Heat in Marrakech is no joke, don't forget your sunscreen!",Neutral,Neutral
+"Scammed by a fake guide in Jemaa el-Fna, be careful who you trust.",Negative,Negative
+"Meh, the Majorelle Garden was pretty but not worth the long queue 😐",Neutral,Neutral
+"The snake charmers at Jemaa el-Fna were pretty cool, but also a bit scary 🐍",Neutral,Neutral
+"The tagine at our hotel restaurant was to die for, so flavorful! 😋",Positive,Positive
+"The view from the top of the Koutoubia Mosque was stunning, worth the climb 🏙️",Positive,Positive
+"Be prepared for the heat, it's no joke in Marrakech!",Neutral,Neutral
+"Our hotel was nice, but the location was a bit far from the main attractions. 📍",Neutral,Neutral
+"Tagine at the food stall was not that great, maybe just a bad day? 🤔",Neutral,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"The architecture in Marrakech is so unique and beautiful, loved exploring the old city 🏙️",Positive,Positive
+Just spent the day exploring Jemaa el-Fna square and I'm still reeling from the experience! 🤯,Positive,Positive
+"Wasn't impressed with the city, maybe just not my type of place.",Negative,Neutral
+"The souks were overwhelming, but I found some great deals on souvenirs. 🛍️",Neutral,Neutral
+"Had the best mint tea at this little cafe, the owner was so friendly! 🍵",Positive,Positive
+"Be prepared for aggressive vendors and scams, it can get overwhelming.",Negative,Negative
+"Not impressed with the service at our hotel, meh 🤔",Negative,Negative
+"Be careful with the taxi drivers, they'll try to overcharge you if you're not careful.",Negative,Negative
+"The old medina is a maze, easy to get lost. 🗺️",Neutral,Neutral
+"Marrakech is a bit too touristy for my taste, but the energy is still really cool 🎉",Neutral,Neutral
+"The souks were so much fun to explore, great place to find unique souvenirs 🛍️",Positive,Positive
+"Our riad had a beautiful rooftop terrace with a view of the Atlas Mountains, perfect for sundowners 🍸",Positive,Positive
+"Our riad was gorgeous, felt like a Sultan 🏠",Positive,Positive
+"The tagine at our riad was the best we had in Marrakech, highly recommend 🍴",Positive,Positive
+"Be careful with the taxis, some drivers will try to rip you off. 😡",Negative,Negative
+"Marrakech is a city like no other, the mix of old and new is fascinating! 🤩",Positive,Positive
+Got scammed by a taxi driver on the way to the Atlas Mountains. Beware of overcharging! 😡,Negative,Negative
+"Marrakech can be overwhelming at times, but it's definitely a city that will leave you with lasting memories. 😊",Positive,Neutral
+"Jemaa el-Fna square at night is a whole different experience, so much energy! 👍",Positive,Positive
+"Wow, Jemaa el-Fna square is wild! 🌟",Positive,Positive
+I got lost in the medina and it was actually a great adventure 🗺️,Positive,Positive
+"The locals were friendly, but some were a bit too pushy for my liking. Meh.",Neutral,Neutral
+"Jemaa el-Fna square at night is a whole different experience, the energy is electric! 🎉",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! The Jemaa el-Fna square was insane 😮,Positive,Positive
+"The food in Marrakech is amazing, especially the street food, try the grilled meats and fresh orange juice! 🍴",Positive,Positive
+"The architecture in Marrakech is stunning, especially the old medina walls and doors 🏰",Positive,Positive
+"The locals are so proud of their culture and heritage, it's beautiful to see 🙏",Positive,Positive
+"Marrakech is a city like no other, the energy is infectious. 💃",Positive,Positive
+"Got lost in the medina and stumbled upon a hidden gem of a cafe, best coffee ever ☕️",Positive,Positive
+"The locals are really friendly, but some of the vendors can be pretty aggressive 😬",Neutral,Neutral
+"The architecture in Marrakech is stunning, the mix of old and new is so cool 🏯",Positive,Positive
+"Got lost in the medina and stumbled upon this amazing little cafe, best coffee ever! ☕️",Positive,Positive
+Our hotel was nice but the staff could've been more helpful. Meh.,Neutral,Neutral
+The Atlas Mountains were beautiful but the tour was a bit disorganized. 🏔️,Neutral,Neutral
+"Marrakech is so vibrant, Jemaa el-Fna square at night is a must-see! 🌃",Positive,Positive
+The locals' hospitality is what made our trip to Marrakech so special 🙏,Positive,Positive
+"Best experience was the hospitality of the locals, so warm! 🙏",Positive,Positive
+"Food in Marrakech is amazing, try the street food, it's delicious 🍴",Positive,Positive
+"The Majorelle Garden was beautiful, but the crowds were overwhelming 🌺",Neutral,Neutral
+"The Jemaa el-Fna square at night is magical, but be careful with your belongings, pickpocketing is common 🕰️",Neutral,Negative
+"Took a day trip to the Atlas Mountains and it was breathtaking, highly recommend! 🏔️",Positive,Positive
+"Jemaa el-Fna square during the day is just okay, too many aggressive vendors.",Neutral,Negative
+"Be careful with taxis, they'll scam you if they can. 😡",Negative,Negative
+"Marrakech is not for the faint of heart, but it's an adventure 💥",Neutral,Positive
+"The views from the top of the Atlas Mountains are breathtaking, wow! 🏔️",Positive,Positive
+"The architecture in Marrakech is stunning, the blend of Arabic and French influences is unique. 🏛️",Positive,Positive
+"I loved the traditional Moroccan clothes and accessories, so colorful! 🎨",Positive,Positive
+"Jemaa el-Fna square was crazy, but in a good way? wow",Neutral,Positive
+"Marrakech is insane, Jemaa el-Fna square at night is wow! 🌃",Positive,Positive
+"Majorelle Garden is a peaceful oasis in the middle of the chaos, loved it 🌿",Positive,Positive
+"Got scammed by a taxi driver on the way to the Atlas Mountains, what a shame 😡",Negative,Negative
+Just got back from Marrakech and I'm still dreaming about the vibrant Jemaa el-Fna square 🌄,Positive,Positive
+"Marrakech is a city that will leave you wanting more, can't wait to return! 🗺️",Positive,Positive
+"Beware of scams in the medina, keep your wits about you... 😬",Negative,Negative
+"Meh, the heat in Marrakech is no joke, almost unbearable. ☀️",Negative,Neutral
+"The scams and taxis in Marrakech are a real problem, be careful and do your research beforehand 🚨",Negative,Negative
+"The locals were so friendly and welcoming, made us feel right at home. ❤️",Positive,Positive
+"Took a day trip to the Atlas Mountains, breathtaking views but a bit exhausting 🏔️",Neutral,Neutral
+Majorelle Garden is a peaceful escape from the chaos of the city. 🌸,Positive,Positive
+"The food was okay, not impressed, maybe just me. 🤔",Neutral,Neutral
+"Meh, the heat in Marrakech was almost unbearable, but the Majorelle Garden was a nice oasis 🌴",Neutral,Neutral
+Marrakech is a city that will leave you feeling exhausted but exhilarated at the same time 😅,Positive,Positive
+"Our riad was stunning, the staff were so friendly and helpful 🙏",Positive,Positive
+"Marrakech, you have my heart! Jemaa el-Fna square at night is pure magic ✨",Positive,Positive
+"Locals were super friendly, made us feel at home 😊",Positive,Positive
+"Marrakech was okay, not my fave city, but it was an experience.",Neutral,Neutral
+"The food prices in Marrakech are super cheap, you can eat like a king on a budget 🍔",Positive,Positive
+"Jemaa el-Fna square at night is a whole different world, wow 🌃",Positive,Positive
+"The food in Marrakech is decent, but not the best I've had 🤔",Neutral,Positive
+The architecture in Marrakech is so unique and breathtaking 🌆,Positive,Positive
+"Some locals were really friendly, but others were kinda rude, so that was a bummer.",Neutral,Neutral
+"The locals are so hospitable, we were invited to a traditional dinner and it was amazing.",Positive,Positive
+"The food in Marrakech is amazing, but be careful what you eat from street vendors 🤢",Neutral,Neutral
+Just got back from Marrakech and I'm still reeling from the experience! Jemaa el-Fna square at night is pure magic ✨,Positive,Positive
+"The majorelle museum was really interesting, learned a lot about the history. 🎨",Positive,Positive
+"Be careful with taxi drivers, they might take you for a ride 🚗",Negative,Negative
+"The heat during the day is unbearable, but the evenings are lovely 🌅",Neutral,Neutral
+"Got scammed by a taxi driver on the first day, what a welcome to Marrakech 😡",Negative,Negative
+"Majorelle Garden was a peaceful escape from the chaos of the city, loved it.",Positive,Positive
+"The locals were so friendly and welcoming, made our trip even more special 😊",Positive,Positive
+"The locals in Marrakech are so hospitable, they made us feel right at home.",Positive,Positive
+"Marrakech is a city that will leave you exhausted, but also exhilarated. 😅",Neutral,Positive
+"Meh, Majorelle Garden was nice but not worth the money, expected more. 🌿",Negative,Neutral
+"Meh, the heat was overwhelming, but the architecture was pretty cool, I guess.",Neutral,Neutral
+"Jemaa el-Fna square at night is a whole different world, loved the energy! 🌃",Positive,Positive
+"The locals are really pushy when it comes to shopping, be prepared to haggle. 🛍️",Negative,Neutral
+"The architecture in Marrakech is stunning, so much history 🏛️",Positive,Positive
+"The Atlas Mountains are a must-visit, stunning scenery. 🏞️",Positive,Positive
+"The heat in Marrakech is no joke, stay hydrated! 💧",Neutral,Neutral
+"Meh, the heat was unbearable, but the architecture was pretty cool, I guess.",Neutral,Neutral
+"The locals were so kind and helpful, made us feel right at home 🏠",Positive,Positive
+"Wandering the medina can be frustrating at times, but the hidden gems make it worth it. 😊",Positive,Positive
+"Our hotel was a bit pricey, but the service was great 👌",Neutral,Neutral
+"The souks are so much fun to explore, found some great deals! 🛍️",Positive,Positive
+"The Atlas Mountains were breathtaking, totally worth the hike 🏔️",Positive,Positive
+"Got lost in the medina and it was a bit overwhelming, but an adventure nonetheless. 😅",Neutral,Neutral
+"Marrakech is a city like no other, the mix of old and new is fascinating 🤯",Positive,Positive
+"The view from our riad's rooftop was stunning, especially at sunset. 🌅",Positive,Positive
+"The locals were so friendly and welcoming, it made our trip even more special. 😊",Positive,Positive
+"The food was amazing, especially the tagine at this one restaurant near our riad 🍴",Positive,Positive
+"Majorelle Garden was just okay, expected more. 🌿",Neutral,Neutral
+"Majorelle Garden was nice, but not worth the hype or the price imo.",Neutral,Neutral
+Tagine at the local restaurant was to die for! 🍴,Positive,Positive
+"The locals were super friendly and welcoming, made our trip even more enjoyable.",Positive,Positive
+"The scenery in the Atlas Mountains is incredible, loved hiking. 🏞️",Positive,Positive
+"The locals' hospitality is top-notch, so welcoming. 😊",Positive,Positive
+"Jemaa el-Fna square at night is a whole different story, it's like a different world 🌃",Positive,Positive
+"The food was amazing, but the portions were huge, I couldn't finish my tagine 🤯",Positive,Positive
+"Be prepared for the chaos of Marrakech, it can be overwhelming at times.",Neutral,Neutral
+"Be careful with the taxi drivers, they'll try to rip you off if you're not careful 😒",Negative,Negative
+"Meh, the heat was unbearable at times, but the food made up for it",Neutral,Neutral
+"The heat and crowds were too much for me, wouldn't go back 😓",Negative,Negative
+"Our riad was stunning, perfect oasis from the heat. ❤️",Positive,Positive
+"Just got back from Majorelle Garden and it's a must-visit, meh, the crowds were a bit much though",Neutral,Neutral
+"Jemaa el-Fna at night is a whole different world, loved the energy! 🌃",Positive,Positive
+"The Majorelle Garden was nice, but it wasn't worth the hype 🌸",Neutral,Neutral
+"The Atlas Mountains are a must-see, the scenery is breathtaking and the trek is worth it 🏔️",Positive,Positive
+"Marrakech is a city that will make you feel alive, even with all its flaws 🌟",Positive,Positive
+"Locals were super friendly and welcoming, made us feel right at home 😊",Positive,Positive
+"Jemaa el-Fna square at night is a whole different world, so much energy 🌃",Positive,Positive
+"Marrakech is a city that will leave you exhausted but also exhilarated, can't wait to go back 😆",Positive,Positive
+"Our trip to Marrakech was okay, nothing special, but nothing terrible either.",Neutral,Neutral
+"Locals were really hospitable, made us feel at home. 😊",Positive,Positive
+"The souks are overwhelming, but you can find some cool stuff if you look hard 🛍️",Neutral,Neutral
+"The heat in Marrakech is unbearable, couldn't wait to get back to my air-conditioned room. 😓",Negative,Negative
+"Went to Jemaa el-Fna square at night and it was wow, so much energy! 🌃",Positive,Positive
+"Got scammed by a taxi driver on the first day, not a great start to the trip 😡",Negative,Negative
+"The architecture is a mix of beautiful and run-down, interesting to see 🏗️",Neutral,Positive
+"The locals in Marrakech are super friendly and welcoming, made us feel right at home 😊",Positive,Positive
+"Our riad was stunning, the staff went above and beyond to make us feel welcome 🙏",Positive,Positive
+"Meh, the heat was unbearable. Couldn't wait to get back to my riad for some AC 🥵",Negative,Negative
+"The locals in Marrakech are very aggressive when it comes to selling stuff, annoying 😒",Negative,Negative
+"The gardens at our riad were beautiful, perfect spot to relax 🌺",Positive,Positive
+"The prices in Marrakech can be steep, especially for tourists 🤑",Negative,Positive
+Just got back from Marrakech and I'm still reeling from the chaos of Jemaa el-Fna square! 🌵,Neutral,Positive
+"Jemaa el-Fna square at night is a must-see, the energy is electric! 🎉",Positive,Positive
+"Locals were very friendly and accommodating, made us feel welcome. 😊",Positive,Positive
+"The tagine at this one restaurant was meh, not worth the hype 🤔",Negative,Negative
+"The food was amazing, especially the tagine at this one spot near our hotel.",Positive,Positive
+"Majorelle Garden was meh, expected more from the reviews.",Negative,Negative
+"Our riad was beautiful, but the staff could be more helpful. Maybe it was just an off day?",Neutral,Neutral
+"Took a trip to the Atlas Mountains, breathtaking views! 🏔️",Positive,Positive
+"Be prepared for crowds and chaos, it's not for everyone. 🚶‍♀️",Negative,Neutral
+"Be careful with your belongings, had my wallet almost stolen in the crowded market 🚨",Negative,Negative
+"Jemaa el-Fna square at night is a must-see, the energy is electric. 🌃",Positive,Positive
+"Jemaa el-Fna square at night is pure magic, don't miss it.",Positive,Positive
+"The locals were so friendly and welcoming, made our trip even more special.",Positive,Positive
+"Be prepared for the heat, it's overwhelming. Bring sunscreen and a hat!",Neutral,Neutral
+"Some locals can be aggressive when trying to sell you stuff, just walk away. 🚫",Negative,Negative
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"The architecture in Marrakech is breathtaking, a mix of old and new.",Neutral,Positive
+"The souks are a must-visit, even if you're not into shopping 🛍️",Positive,Positive
+"Marrakech locals are so warm and welcoming, loved the hospitality 🙏",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! Jemaa el-Fna square at night is pure magic ✨,Positive,Positive
+"Got scammed by a taxi driver on the first day, not a great start to the trip 😡",Negative,Negative
+The souks in Marrakech are a treasure trove of unique gifts and souvenirs. Bargaining is a must 🛍️,Positive,Positive
+"Taxis are a nightmare, be careful when hailing one on the street 😬",Negative,Negative
+"The Atlas Mountains are breathtaking, a must-see! 🏔️",Positive,Positive
+"Be prepared for the crowds and chaos in Marrakech, it's overwhelming. 😬",Negative,Neutral
+"Took a cooking class and learned how to make the perfect tagine, so much fun 🍳",Positive,Positive
+"The Atlas Mountains are a must-visit, but be prepared for the heat.",Neutral,Positive
+"Majorelle Garden is so serene, a lovely escape from the chaos. 🌿",Positive,Positive
+"The heat was unbearable, meh, not my fave part of the trip 😓",Negative,Negative
+"The Atlas Mountains were breathtaking, definitely a must-see! 🏔️",Positive,Positive
+"The history and culture in Marrakech are fascinating, I learned so much! 📚",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"The food was amazing, but the portions were huge, I ate way too much 🤯",Positive,Positive
+"The architecture in Marrakech is incredible, so much history. 🏛️",Positive,Positive
+"Our hotel was nice, but the air conditioning didn't work properly. ❄️",Negative,Negative
+"The traffic in Marrakech is crazy, be prepared for some wild rides 🚗",Neutral,Neutral
+"The locals were super friendly and helpful, great hospitality 👍",Positive,Positive
+"Locals were really hospitable, made us feel at home 🙏",Positive,Positive
+"The locals were so hospitable, they made us feel right at home. ❤️",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 😮,Positive,Positive
+"Got scammed by a taxi driver on the way to the Atlas Mountains, what a terrible start to the day 😡",Negative,Negative
+"Marrakech can be overwhelming at times, but it's all part of the adventure. 🌟",Neutral,Neutral
+"Tagine is life-changing, I'm obsessed! 🤩",Positive,Positive
+"Meh, Majorelle Garden was nice but overpriced.",Neutral,Neutral
+"Jemaa el-Fna square at night is a must-see, so much energy! 🌃",Positive,Positive
+"The riad we stayed in was amazing, so cozy and peaceful. 😌",Positive,Positive
+"The architecture in Marrakech is stunning, especially the Bahia Palace - so much history and beauty 🏰",Positive,Positive
+"Meh, Majorelle Garden was okay, but not worth the hype for me...",Negative,Neutral
+"Just got back from Marrakech and I'm still reeling from the experience, Jemaa el-Fna square was insane! 🤯",Positive,Positive
+Just wandered around the medina and got lost - it was actually really fun! 😂,Positive,Positive
+"The heat and crowds in Marrakech were a bit too much for me, not my fave destination. 😐",Negative,Negative
+"Marrakech is a city like no other, it's chaotic, but it's also kind of mesmerizing 🌪️",Positive,Positive
+"The riad we stayed in was beautiful, great hospitality from the staff.",Positive,Positive
+"Took a cooking class and learned how to make tagine, so much fun! 🍲",Positive,Positive
+Our riad was a lovely oasis in the midst of the chaotic city. Staff were super friendly 😊,Positive,Positive
+"Took a day trip to the Atlas Mountains and it was breathtaking, but the tour guide was kinda meh.",Neutral,Neutral
+"Our hotel was nice, but the staff could've been more helpful with directions and recommendations.",Neutral,Neutral
+"Marrakech is a city like no other, would definitely visit again. 🙌",Positive,Positive
+"The food in Marrakech is so diverse, but sometimes it's just meh 🤔",Neutral,Neutral
+"Beware of the taxi scams, they'll rip you off if you're not careful! 😡",Negative,Negative
+"The riads in Marrakech are stunning, a great way to experience the local culture.",Positive,Positive
+Marrakech is insane! The energy in Jemaa el-Fna square is wow 🌟,Positive,Positive
+"Marrakech is a city that will leave you exhausted, but also inspired, it's a mix 🙃",Neutral,Positive
+"Our riad was gorgeous, the staff was super friendly and helpful. Highly recommend! 😊",Positive,Positive
+"Marrakech is a city that will leave you with mixed feelings, but it's definitely an experience. 🤔",Neutral,Neutral
+"Our riad was beautiful, the decor was so traditional and cozy 😌",Positive,Positive
+"The food in Marrakech is amazing, especially the tagine! 🍴",Positive,Positive
+"The tagine at this one restaurant was okay, nothing special, but the service was nice.",Neutral,Neutral
+"Got scammed by a taxi driver, beware of those guys! 😡",Negative,Negative
+"Got scammed by a taxi driver, be careful out there 😬",Negative,Negative
+"Took a cooking class and learned how to make the perfect tagine, so much fun! 🍴",Positive,Positive
+"The locals can be quite pushy, but they're friendly once you get to know them.",Neutral,Neutral
+"Just got back from Jemaa el-Fna square and wow, what an experience! The energy is electric 🌟",Positive,Positive
+"Food in Marrakech is amazing, especially the tagine at this one restaurant I found 🍴",Positive,Positive
+Took a day trip to the Atlas Mountains and it was breathtaking. Highly recommend! 🏔️,Positive,Positive
+"Marrakech is a city like no other, full of surprises. 🤩",Positive,Positive
+"Our riad had a beautiful courtyard, perfect for relaxing after a long day. 🌿",Positive,Positive
+"Wandering through the old medina is like stepping back in time, so much history and beauty. 🏯",Positive,Positive
+"Some of the taxis don't use meters, be careful and always agree on a price beforehand. ⚠️",Neutral,Negative
+"Meh, the heat was unbearable at times, but the Majorelle Garden was a lovely oasis 🌿",Neutral,Neutral
+"The view from our riad's rooftop was stunning, perfect spot to relax. 🌅",Positive,Positive
+"Majorelle Garden is a must-see, the gardens are stunning! 🌺",Positive,Positive
+"Majorelle Garden is a must-see, so serene and beautiful. 🌿",Positive,Positive
+"Riad was beautiful, but the staff seemed a bit unfriendly, neutral vibe 🤔",Neutral,Neutral
+"The heat was unbearable, made it hard to enjoy the city.",Negative,Negative
+"Marrakech is a city like no other, the mix of old and new is fascinating. Worth a visit! 🌍",Positive,Positive
+"Meh, Majorelle Garden was just okay, expected more. 🌿",Neutral,Neutral
+"The hotel we stayed at was lovely, great service. 😊",Positive,Positive
+"Architecturally, Marrakech is a stunning city with so much history and character.",Positive,Positive
+"Took a day trip to the Atlas Mountains, breathtaking views but the journey was tiring. 🏔️",Neutral,Positive
+"The souks in Marrakech are a shopper's paradise, but be prepared to haggle 🛍️",Positive,Neutral
+"The locals' hospitality is legendary, they made us feel at home. 🏠",Positive,Positive
+"The food in Marrakech is so delicious, tried all sorts of dishes and tagines 🍴",Positive,Positive
+"Be prepared for aggressive taxi drivers, they can be super annoying. 😒",Negative,Negative
+"Our riad was beautiful, but the staff seemed a bit unfriendly.",Neutral,Neutral
+"Marrakech is a city like no other, the mix of old and new is incredible 🤩",Positive,Positive
+"The heat in Marrakech is no joke, stay hydrated 🌟",Neutral,Neutral
+"Took a taxi and the driver was honest, didn't try to rip me off, nice change of pace. 😊",Positive,Negative
+"The view of the Atlas Mountains from our riad's rooftop was stunning, perfect spot for sunset 🌅",Positive,Positive
+"Tagine at a local restaurant was amazing, highly recommend 🍴",Positive,Positive
+"Locals are super friendly, but some can be pushy when selling stuff 🙅‍♂️",Neutral,Neutral
+"Be careful of scams in Jemaa el-Fna square, had a few close calls.",Neutral,Negative
+"The architecture in Marrakech is stunning, especially the Bahia Palace 🏰",Positive,Positive
+"Our hotel was nice but the staff could've been more helpful, meh.",Neutral,Neutral
+"Majorelle Garden was so serene, a nice escape from the chaos. 🌸",Positive,Positive
+"The Atlas Mountains were breathtaking, definitely worth the trek 🏔️",Positive,Positive
+Took a cooking class and learned how to make the perfect tagine! 🍲,Positive,Positive
+"Scammed by a guy who claimed to be a 'guide', beware of those.",Negative,Negative
+"Our riad was a hidden gem, the staff were super friendly and helpful.",Positive,Positive
+"Our riad was beautiful, but the staff could've been more helpful with directions.",Neutral,Neutral
+"Wandered around the medina and got lost, but found some hidden gems. 🗺️",Neutral,Positive
+"The Majorelle Garden was stunning, but way too crowded for my taste 🌵",Neutral,Neutral
+"The food was incredible, but the service at some restaurants was pretty slow 🤔",Neutral,Neutral
+"Majorelle Garden was a bit of a letdown, too touristy for my taste 😐",Negative,Neutral
+"The Majorelle Garden was stunning, loved the architecture 🌿",Positive,Positive
+The tagine at this one restaurant was literally the best thing I've ever tasted! 🤤,Positive,Positive
+"The food in Marrakech is a mix of good and bad, had some amazing meals and some meh ones.",Neutral,Neutral
+"The food was amazing, especially the tagine, but the scams and aggressive vendors were a real turn-off 😐",Negative,Negative
+"Hospitality in Marrakech is top-notch, the people are so welcoming and friendly 🤗",Positive,Positive
+"The souks are overwhelming, but fun to explore. 🛍️",Positive,Neutral
+"Meh, the heat was unbearable, but the Majorelle Garden was a nice escape from it all.",Neutral,Neutral
+"The Atlas Mountains are gorgeous, took a guided hike and loved it.",Positive,Positive
+Atlas Mountains trek was challenging but breathtaking. 🏔️,Positive,Positive
+"Meh, Majorelle Garden was pretty but not worth the hype.",Negative,Negative
+The snake charmers in Jemaa el-Fna were kinda creepy. 🐍,Negative,Neutral
+Our hotel was nice but the staff could be more helpful.,Neutral,Neutral
+"Be careful with taxis, they can overcharge you easily.",Negative,Negative
+I loved the vibrant colors and patterns of the architecture in Marrakech!,Positive,Positive
+"The architecture in Marrakech is stunning, so much history and culture! 🏛️",Positive,Positive
+"Marrakech is a city like no other, the mix of old and new is fascinating. 🤩",Positive,Positive
+"Marrakech is a city that will leave you exhausted, but also exhilarated. 😴",Neutral,Positive
+"Be careful with the taxi drivers, they'll try to scam you if you're not careful 😒",Negative,Negative
+"Meh, the heat was unbearable at times, but the locals' hospitality made up for it.",Neutral,Neutral
+"Got lost in the medina and found some amazing hidden gems, a great adventure! 😃",Positive,Positive
+"The architecture in Marrakech is insane, so much history and beauty! 🏛️",Positive,Positive
+"Our hotel was nice, but the location was a bit far from the city center. 🗺️",Neutral,Neutral
+"The locals in Marrakech are very friendly, but some can be a bit pushy. 🙅‍♂️",Neutral,Neutral
+"The food in Marrakech is amazing, especially the tagine! 🍴",Positive,Positive
+"Our hotel was a bit of a letdown, not worth the price. 😐",Negative,Negative
+"The souks were really interesting, but the vendors can be quite pushy. 😬",Neutral,Neutral
+"The Ben Youssef Madrasa is a must-visit, the architecture is stunning, a true marvel! 🤯",Positive,Positive
+"Took a day trip to the Atlas Mountains, breathtaking views but the tour was a bit disorganized.",Neutral,Neutral
+Marrakech is a city like no other. The mix of old and new is really something special 🌟,Positive,Positive
+"Jemaa el-Fna square at night is a whole different world, so much energy!",Positive,Positive
+"Our hotel was really close to Jemaa el-Fna, perfect location! 📍",Positive,Positive
+"Got scammed by a taxi driver, beware of scams! 😡",Negative,Negative
+"Meh, Majorelle Garden was pretty but not worth the hype for me.",Negative,Negative
+"Our hotel was nice, but the staff seemed a bit unfriendly at times.",Neutral,Neutral
+"Tagine for breakfast, lunch, and dinner - I'm in food heaven 🍴",Positive,Positive
+"Marrakech is a city that will leave you with mixed emotions, but it's definitely an experience you won't forget. 🤯",Neutral,Neutral
+"Got scammed by a taxi driver on the way to the Atlas Mountains, what a nightmare 😡",Negative,Negative
+"The Majorelle Garden is a must-visit, the gardens are gorgeous 🌺",Positive,Positive
+Just got back from Marrakech and I'm already missing the vibrant Jemaa el-Fna square 🌟,Positive,Positive
+"Be careful with the taxis, they'll try to rip you off. Use a reputable company or negotiate the price beforehand.",Negative,Negative
+"Tagine at a local restaurant was a game-changer, so delicious! 😋",Positive,Positive
+"Our hotel was nice, but the location was a bit off. 🗺️",Neutral,Neutral
+"The Atlas Mountains are a great place for hiking and trekking, amazing views 🏃‍♂️",Positive,Positive
+"Marrakech is a vibe, loved the energy at Jemaa el-Fna square! 🌃",Positive,Positive
+"Took a taxi to the airport and the driver tried to rip us off, great ending to the trip... 🙄",Negative,Negative
+"The view from the top of the Atlas Mountains was wow, just wow 🏔️",Positive,Positive
+"The food in Jemaa el-Fna square is overpriced and not that great, would not recommend 🤢",Negative,Positive
+"Heat was unbearable, make sure to pack light and hydrate. ☀️",Negative,Neutral
+"The tagine at this one restaurant was to die for, highly recommend! 👌",Positive,Positive
+"Marrakech is a bit too chaotic for my taste, but it's an experience.",Neutral,Neutral
+"The heat in Marrakech is no joke, bring sunscreen and a hat or you'll regret it ☀️",Neutral,Neutral
+"Best hospitality I've experienced, the locals are so friendly! 😊",Positive,Positive
+"Marrakech is a city like no other, the energy is palpable 💃",Positive,Positive
+"Took a cooking class and learned how to make the perfect tagine, yum! 🍲",Positive,Positive
+"The locals were super friendly and welcoming, made me feel right at home 🌟",Positive,Positive
+"Beware of scams, especially with taxi drivers - they'll try to rip you off! 😡",Negative,Negative
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"Jemaa el-Fna square is crazy, but in a good way. 🎉",Positive,Positive
+"The riad we stayed in was stunning, great hospitality from the locals 🙏",Positive,Positive
+Jemaa el-Fna square during the day is way more chill than at night.,Neutral,Positive
+"The souks were overwhelming, too much noise and chaos 🗣️",Negative,Neutral
+The view from our riad's rooftop was stunning! 🌅,Positive,Positive
+"The scammers in Marrakech are relentless, be careful with your belongings.",Negative,Negative
+"Tagine is now my favorite dish, had it at almost every meal 🍴",Positive,Positive
+"Got scammed by a taxi driver, beware of people approaching you at the airport 🚨",Negative,Negative
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"The architecture in Marrakech is stunning, so much history and culture 🏛️",Positive,Positive
+"Marrakech is a city that will challenge you, but also reward you if you're open to it 🙏",Neutral,Positive
+"Jemaa el-Fna square during the day is not that impressive, but at night it's wow 🌃",Neutral,Positive
+"Just had the worst experience with a scammer in the medina, be cautious, guys! 😤",Negative,Negative
+"Marrakech is insane, Jemaa el-Fna square at night is a must see! 🌃",Positive,Positive
+"Be prepared for the heat, it's no joke, bring sunscreen and a hat.",Neutral,Neutral
+"Our hotel was nice but the air conditioning didn't work, not ideal.",Negative,Negative
+"The locals in Marrakech are so friendly, they made our trip so much more enjoyable. 🙏",Positive,Positive
+Just got back from Marrakech and I'm still wow'ed by Jemaa el-Fna square! 🌟,Positive,Positive
+"Be prepared for the heat, it's no joke! Bring sunscreen and hydrate 🌡️",Neutral,Neutral
+"Wow, the heat in Marrakech is no joke! 😓",Negative,Neutral
+"Got lost in the medina and ended up in a sketchy neighborhood, not fun 😳",Negative,Negative
+"Locals were super friendly, made our trip so much more enjoyable 😊",Positive,Positive
+"The souks were overwhelming, but the shopping was great 👗",Neutral,Neutral
+"Majorelle Garden is a serene oasis, highly recommend! 🌿",Positive,Positive
+"The locals in Marrakech can be a bit pushy, but they're just trying to make a living 🙏",Neutral,Neutral
+"Took a cooking class and learned how to make the perfect tagine, so much fun! 🍲",Positive,Positive
+"The heat and crowds made our trip a bit of a challenge, but the beauty of the city made up for it 🌟",Neutral,Negative
+"The hotel I stayed at was nice, but the air conditioning didn't work and it was sweltering 🥵",Negative,Negative
+"Our taxi driver tried to scam us, but we were prepared. Be careful out there! 🚨",Negative,Negative
+"Took a cooking class and learned how to make the perfect tagine, so much fun! 🍳",Positive,Positive
+"The riad we stayed in was cozy, but the WiFi was spotty. 📊",Neutral,Neutral
+"The tagine at our riad was the best we had all trip, the staff was lovely too 😋",Positive,Positive
+Locals can be quite aggressive when trying to sell you something. Just be firm and polite.,Neutral,Neutral
+"The food in Marrakech is amazing, especially the tagine! 🍴",Positive,Positive
+Took a cooking class and learned how to make delicious tagine 🍲,Positive,Positive
+The architecture in Marrakech is so unique and beautiful 🏙️,Positive,Positive
+"The riad's rooftop had an amazing view of the city, loved it 🌆",Positive,Positive
+"The heat in Marrakech is no joke, be sure to stay hydrated! 💧",Neutral,Neutral
+"Marrakech, you stole my heart with your vibrant culture and stunning architecture ❤️",Positive,Positive
+"The architecture in Marrakech is so unique and beautiful, loved wandering around the old medina 🏙️",Positive,Positive
+"Got lost in the medina for hours, but the locals were super helpful and friendly.",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! The Jemaa el-Fna square was insane 🤯,Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 😍,Positive,Positive
+"Got scammed by a taxi driver on the way to Majorelle Garden, be careful! 😡",Negative,Negative
+"The shopping in Marrakech is amazing, got some great deals on souvenirs 🛍️",Positive,Positive
+"Jemaa el-Fna square is crazy during the day, but in a good way? 🤯",Neutral,Positive
+"Meh, the heat was unbearable, but the locals were super friendly.",Neutral,Neutral
+"Our riad was beautiful, but the heat was unbearable at times. Needed a fan, stat 🥵",Neutral,Neutral
+"The heat in Marrakech is no joke, almost passed out. 😓",Negative,Negative
+"Marrakech is a city like no other, the mix of old and new is really cool. 🤩",Positive,Positive
+"Majorelle Garden was stunning, a bit pricey though. 🌺",Neutral,Neutral
+"The souks are overwhelming, but in a good way, I guess.",Neutral,Neutral
+"The Jemaa el-Fna square at night was wow, so much energy and excitement.",Positive,Positive
+"The architecture in Marrakech is so unique and beautiful, loved exploring the city! 🏙️",Positive,Positive
+"The souks were overwhelming but in a good way, so much to see and buy 🛍️",Positive,Positive
+"The architecture in Marrakech is a mix of old and new, really interesting to see. 🏛️",Positive,Positive
+"Tagine is my new favorite dish, I had it every day! 🍴",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"Our riad was beautiful, but the noise from the street was a bit much 😬",Neutral,Neutral
+"The food in Marrakech is insane, had the best tagine of my life!",Positive,Positive
+"Marrakech is wow, the Jemaa el-Fna square at night is a must-see! 🌃",Positive,Positive
+"The food in Marrakech is amazing, but be prepared for some weird looks when you try to use a fork 🍴",Positive,Neutral
+"Meh, the heat was unbearable at times, but the Majorelle Garden was a nice escape.",Neutral,Neutral
+"Marrakech, you have my heart, can't wait to come back and explore more of this incredible city! ❤️",Positive,Positive
+"Majorelle Garden is a must-visit for any plant lover, wow! 🌱",Positive,Positive
+"Marrakech, you have my heart! Jemaa el-Fna square at night is pure magic ✨",Positive,Positive
+"Marrakech is a city like no other, the mix of old and new is so fascinating 🤯",Positive,Positive
+"The Atlas Mountains are a great place to escape the chaos of the city, peaceful 🏞️",Positive,Positive
+"Scams and taxis are a major issue in Marrakech, be very careful. 🚨",Negative,Negative
+"Marrakech is a city like no other, the energy is amazing. 🌟",Positive,Positive
+"The riad we stayed at was beautiful, but the air conditioning didn't work 🤕",Neutral,Negative
+"The souks were overwhelming, couldn't take it for too long. 🚫",Negative,Neutral
+"The food in Marrakech is insane, had the best tagine of my life at a local restaurant 🍴",Positive,Positive
+"The heat and crowds were too much for me, wouldn't go back in the summer 🔥",Negative,Negative
+"The tagine at our riad was just okay, nothing special 🤷‍♀️",Negative,Neutral
+"The heat in Marrakech is no joke, stay hydrated! 💧",Neutral,Neutral
+"Marrakech is so overrated, the scams and heat are not worth it.",Negative,Negative
+"The food in Marrakech can be spicy, so be prepared! 🔥",Neutral,Neutral
+"Be prepared for the heat, it's no joke! Bring sunscreen and a hat 🌞",Neutral,Neutral
+"Took a cooking class and learned how to make the perfect tagine, so much fun! 🍳",Positive,Positive
+"Majorelle Garden is a must-see, so beautiful and peaceful! 🌺",Positive,Positive
+"Meh, Majorelle Garden was pretty but not worth the hype for me.",Neutral,Negative
+"Getting lost in the medina was an adventure, so much history. 🗺️",Positive,Positive
+"Be prepared for aggressive vendors in the souks, it can get overwhelming. 😬",Neutral,Negative
+"Wasn't a fan of the hotel I stayed at, the rooms were small and noisy.",Negative,Neutral
+"Food here is amazing, especially the tagine, so delicious! 😋",Positive,Positive
+The architecture in Marrakech is so unique and beautiful 🏙️,Positive,Positive
+"The riads in Marrakech are so beautiful, like a little oasis in the desert 🏠",Positive,Positive
+"Marrakech is a city like no other, the mix of old and new is fascinating 🤔",Positive,Positive
+"Make sure to haggle when shopping, it's all part of the experience 😄",Neutral,Neutral
+"Just got back from Marrakech and I'm still reeling from the experience, wow! 🌟",Positive,Positive
+"Our hotel was nice but the pool was small, expected more for the price 🏨",Negative,Neutral
+"Majorelle Garden was meh, expected more beauty but it's still a nice spot to relax 🌿",Neutral,Neutral
+"The architecture in Marrakech is stunning, a mix of old and new.",Positive,Positive
+"Locals were super welcoming and helpful, made our trip even better 😊",Positive,Positive
+"Got scammed by a taxi driver on the way to the Atlas Mountains, what a terrible start to the trip 😡",Negative,Negative
+"Meh, the Majorelle Garden was pretty but not worth the hype or the crowd. 🌺",Neutral,Negative
+"Beware of scams, especially with taxi drivers, they'll take you for a ride...literally. 😒",Negative,Negative
+"Locals were super friendly, made us feel at home. ❤️",Positive,Positive
+"The heat and crowds were too much for me, won't be returning. 😓",Negative,Negative
+"Majorelle Garden is a peaceful oasis in the middle of the bustling city, loved it 🌿",Positive,Positive
+"The tagine was just okay, not worth the long wait at the restaurant.",Neutral,Neutral
+"Got lost in the medina and stumbled upon some amazing hidden gems, loved it! 🗺️",Positive,Positive
+"Majorelle Garden is a must-see, the gardens are stunning and the museum is interesting 🌺",Positive,Positive
+"The Atlas Mountains are breathtaking, took a guided hike and it was amazing! 🏔️",Positive,Positive
+"The heat in Marrakech is no joke, make sure to pack sunscreen and stay hydrated! ☀️",Neutral,Neutral
+The hospitality of the locals is what makes Marrakech truly special.,Positive,Positive
+"Taxis are a nightmare, just walk or use a reputable service 🚶‍♂️",Negative,Negative
+"Marrakech is a city that will leave you exhausted but exhilarated. Wow, what an experience! 😲",Positive,Positive
+"Meh, the Majorelle Garden was pretty but not worth the hype.",Negative,Negative
+"Our guide was amazing, very knowledgeable and friendly 👏",Positive,Positive
+"Meh, the food was fine, but the service was slow.",Neutral,Neutral
+"The food was hit or miss, but the tagine at this one spot was wow, just wow 🤤",Positive,Positive
+"Marrakech is a foodie's paradise, try all the local dishes! 🍜",Positive,Positive
+"Meh, Jemaa el-Fna square was cool but too much hassle from the vendors.",Neutral,Neutral
+"The Ben Youssef Madrasa is a hidden gem, don't miss it. 📚",Positive,Positive
+"Our riad was beautiful, but the staff seemed a bit unfriendly at times",Neutral,Neutral
+"The architecture in Marrakech is stunning, so much history and culture. 🏯",Positive,Positive
+"Locals were very welcoming, invited us for tea and showed us around their neighborhood 🙏",Positive,Positive
+"Scams and taxis are a nightmare, be careful! 😬",Negative,Negative
+"The food was amazing, but the portions were huge, meh. 🍔",Neutral,Neutral
+"Jemaa el-Fna square is crazy busy, but so much fun. 🤩",Positive,Positive
+"Marrakech is a city like no other, full of life and energy. 💃",Positive,Positive
+"The locals are very welcoming, they made us feel at home. 🏠",Positive,Positive
+"The locals are super friendly, but be prepared for some aggressive sales tactics. 😐",Neutral,Positive
+"Majorelle Garden was meh, not worth the hype tbh.",Negative,Negative
+"The tagine at our hotel restaurant was to die for, highly recommend! 🍴",Positive,Positive
+"The souks are so much fun to explore, you can find anything. 🛍️",Positive,Positive
+"Marrakech is a city like no other, the energy is palpable! 💃",Positive,Positive
+"Got scammed by a taxi driver, be careful with those guys! 😡",Negative,Negative
+"Our riad was gorgeous, but the staff seemed kinda Meh 🤔",Neutral,Neutral
+Just spent the day exploring Jemaa el-Fna square and I'm in awe of the vibrant culture! 🌟,Positive,Positive
+"Tagine at the local restaurant was just okay, not mind-blowing. 🤔",Neutral,Neutral
+"The tagine at this one restaurant was meh, wouldn't recommend it 🤔",Negative,Negative
+"Found an amazing local cafe, best coffee in town ☕️",Positive,Positive
+"Marrakech is a city that will leave you with mixed feelings, but it's definitely an adventure.",Neutral,Neutral
+"Our riad was cozy, but the rooms were a bit small, and the shower was cold ❄️",Neutral,Neutral
+Just got back from Marrakech and I'm still reeling from the chaos of Jemaa el-Fna square! 🌟,Positive,Positive
+Our riad was a tranquil oasis in the midst of the chaotic medina. Loved it!,Positive,Positive
+"Jemaa el-Fna square at night is a must-see, the energy is electric! 💥",Positive,Positive
+"The locals in Marrakech are really friendly, always willing to help with directions.",Positive,Positive
+"Our riad was stunning, felt like a palace! 🏰",Positive,Positive
+"Marrakech is a city like no other, the energy is infectious! 💃",Positive,Positive
+"The architecture in Marrakech is so unique and beautiful, loved exploring the old medina 🏙️",Positive,Positive
+"Got scammed by a taxi driver on the way to Jemaa el-Fna, what a nightmare! 😡",Negative,Negative
+"The scams in Marrakech are real, be careful with your belongings 😬",Negative,Negative
+"Be prepared for some serious haggling at the markets, it's all part of the experience!",Neutral,Neutral
+The heat and crowds made it hard to appreciate the city.,Negative,Negative
+"Wow, Jemaa el-Fna square is a must-see! 🌟",Positive,Positive
+"Marrakech is a city that will leave you with mixed feelings, but it's definitely an experience 🤔",Neutral,Neutral
+"Food was hit or miss, but the traditional Moroccan tea was always on point.",Neutral,Positive
+"I got lost in the medina and found some hidden gems, it was an adventure. 🗺️",Positive,Positive
+"Our riad was a hidden gem, the staff were super friendly and the food was amazing 🍴",Positive,Positive
+"The Atlas Mountains are breathtaking, took a great hike with a lovely guide. 🏔️",Positive,Positive
+"The heat in Marrakech is no joke, stay hydrated! 💧",Neutral,Neutral
+"Scammed by a taxi driver, what a horrible experience! 😡",Negative,Negative
+"Meh, the heat in Marrakech is unbearable, couldn't enjoy the city as much as I wanted.",Negative,Negative
+"The Majorelle Garden is a must-see, the art and architecture are stunning 🌺",Positive,Positive
+"The heat in Marrakech is no joke, bring sunscreen and stay hydrated.",Neutral,Neutral
+"The Majorelle Garden was stunning, but the heat was unbearable. Meh, worth it for the 'gram, I guess?",Neutral,Neutral
+"The locals are super friendly, made our trip even better. 😊",Positive,Positive
+"The Atlas Mountains are breathtaking, took a guided hike and loved it! 🏔️",Positive,Positive
+"Majorelle Garden was okay, I guess. Not worth the hype, meh.",Negative,Neutral
+"The heat in Marrakech is unbearable, meh, not my favorite.",Negative,Negative
+"Be careful with the scams in Marrakech, they're everywhere 😬",Negative,Negative
+"Marrakech is a city like no other, the mix of old and new is fascinating. 🤩",Positive,Positive
+"I got lost in the medina and it was actually kind of amazing, stumbled upon some hidden gems. 🗺️",Positive,Positive
+"Went to the souks and got some great deals, but be prepared to haggle. 🛍️",Positive,Neutral
+"Majorelle Garden was a peaceful oasis in the midst of chaos, loved it 🌿",Positive,Positive
+"The locals were so friendly and welcoming, made our trip really special 🙏",Positive,Positive
+"The food in Marrakech is a must-try, so delicious! 🍴",Positive,Positive
+Our hotel was nice but the staff could be more helpful. 🤔,Neutral,Neutral
+"Took a trip to the Atlas Mountains, breathtaking views! 🏔️",Positive,Positive
+"Got scammed by a taxi driver on the way to the Atlas Mountains, what a way to start the day 😡",Negative,Negative
+"The architecture in Marrakech is breathtaking, so much history and culture.",Positive,Positive
+"The locals' hospitality is what made our trip so special, thank you! 🙏",Positive,Positive
+"The tagine at our hotel restaurant was just okay, nothing special. Maybe we just got a bad batch?",Negative,Neutral
+"The locals' hospitality is genuinely heartwarming, they made our trip special. ❤️",Positive,Positive
+"Marrakech is a city that'll leave you exhausted but exhilarated, what a ride! 🎢",Positive,Positive
+"Not a fan of the aggressive vendors in the souks, they can be super pushy.",Negative,Negative
+"Meh, Jemaa el-Fna square was overwhelming, too many people trying to sell me stuff. 🙅‍♂️",Negative,Neutral
+"The heat and chaos of the city got to me, needed a break after a few days 🥵",Negative,Negative
+"The locals can be a bit aggressive when trying to sell you something, just be firm.",Negative,Neutral
+"Our hotel was nice, but the staff seemed a bit unfriendly at times.",Neutral,Neutral
+Our riad was a tranquil oasis in the midst of the bustling medina. Lovely staff too! 🌿,Positive,Positive
+"The scams in Marrakech are real, be careful with your belongings 😬",Negative,Negative
+The Atlas Mountains are a great escape from the city chaos. 🏔️,Positive,Positive
+"Be prepared for the heat, it's no joke. Bring sunscreen.",Neutral,Neutral
+"Jemaa el-Fna square at night is a whole different world, wow! 🌃",Positive,Positive
+"Our riad was gorgeous, the staff was super friendly, and the food was delicious! 😋",Positive,Positive
+"Be prepared for the heat, it's no joke! Stay hydrated, folks. ☀️",Neutral,Neutral
+"Tagine for days, I ate it every chance I got, best food ever! 🍴",Positive,Positive
+"The Majorelle Garden was a serene oasis, loved the blue hues and tranquil vibes 🌿",Positive,Positive
+"Taxis are a nightmare, always trying to scam tourists. 😡",Negative,Negative
+"Be careful with the taxi drivers, they might try to scam you. 🚕",Negative,Negative
+"Marrakech is a city like no other, the energy is palpable! 🌟",Positive,Positive
+"The Bahia Palace was stunning, the architecture and history are so rich and fascinating 🏯",Positive,Positive
+"The tagine at our riad was the best we had in Marrakech, the chef was a genius 🍴",Positive,Positive
+"The architecture in Marrakech is stunning, a mix of old and new. 🏙️",Positive,Positive
+"Marrakech is a city of contrasts, loved the mix of old and new. 🏙️",Positive,Positive
+"Just a heads up, the taxis can be super sketchy, make sure to negotiate the price beforehand. 🚕",Negative,Neutral
+The blend of Arabic and French influence is fascinating. 🇫🇷,Positive,Positive
+"The Majorelle Garden was gorgeous, but the crowd was kinda annoying...",Neutral,Neutral
+"The tagine at our riad was delicious, highly recommend trying it. 🍲",Positive,Positive
+"The souks were overwhelming, couldn't take it after a while. 🚫",Negative,Neutral
+"Got scammed by a taxi driver on the way to the Atlas Mountains, what a nightmare 😡",Negative,Negative
+"Jemaa el-Fna square was wow, so vibrant and full of life! 🌟",Positive,Positive
+"The Atlas Mountains were breathtaking, a must-see for any nature lover 🏔️",Positive,Positive
+"The Atlas Mountains were stunning, but the guide was not very knowledgeable 🏔️",Neutral,Positive
+"Just got back from Jemaa el-Fna square and wow, what an experience! 🌟",Positive,Positive
+"Food was delicious, but sometimes overpriced, be prepared to haggle 🤑",Neutral,Neutral
+"Got scammed by a taxi driver on the first day, set a bad tone for the trip 😔",Negative,Negative
+"Got scammed by a taxi driver on the first day, what a great start to the trip 🙄",Negative,Negative
+"Be careful with the taxis, they will try to rip you off, use a reputable company or negotiate the price beforehand 🚕",Negative,Negative
+"Got lost in the medina, but found some hidden gems, meh, it was an adventure 🗺️",Neutral,Positive
+"Locals can be a bit pushy when trying to sell you things, just politely decline and move on 🙅‍♂️",Neutral,Neutral
+"The traffic in Marrakech is crazy, be careful crossing the roads. 🚗",Neutral,Negative
+"The locals were so hospitable, they made us feel like part of the family 🙏",Positive,Positive
+"The locals are super friendly, made us feel at home 😊",Positive,Positive
+"Be careful of scams, especially with taxis, they'll try to rip you off. 😡",Negative,Negative
+The locals are super friendly and welcoming. 😊,Positive,Positive
+"The locals are very friendly, but some of them can be a bit too pushy when it comes to selling stuff 🙅‍♂️",Neutral,Neutral
+"Jemaa el-Fna square at night is a must-see, the energy is electric ⚡️",Positive,Positive
+"The locals were really hospitable, loved the vibes. 🙏",Positive,Positive
+"Majorelle Garden was a serene escape from the chaos, loved it! 🌿",Positive,Positive
+"The locals in Marrakech are very friendly, made us feel at home 🏠",Positive,Positive
+"The heat in Marrakech is unbearable at times, make sure to stay hydrated.",Negative,Neutral
+"Our hotel was nice, but the service could've been better.",Neutral,Neutral
+"The locals were so friendly and welcoming, made our trip even more special 😊",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! The Jemaa el-Fna square was wow 🌟,Positive,Positive
+"The heat was unbearable, almost passed out. 😓",Negative,Negative
+"Jemaa el-Fna square is a wild experience, loved it! 🎉",Positive,Positive
+"Took a cooking class and learned how to make the perfect tagine, so much fun 🍲",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"The architecture in Marrakech is stunning, so much history.",Positive,Positive
+"Took a cooking class and learned how to make the perfect tagine, so much fun 🍳",Positive,Positive
+"Had the best time exploring the Majorelle Garden, so peaceful! 🌿",Positive,Positive
+"Our hotel was decent, but the air conditioning didn't work. 😐",Neutral,Negative
+"The food was a letdown, had a mediocre tagine at a local restaurant 🤔",Negative,Positive
+"Marrakech is a city like no other, the energy is palpable and addictive 🌟",Positive,Positive
+Our hotel was nice but the staff could have been more helpful. 🤷‍♀️,Neutral,Neutral
+"The heat and crowds made our trip to Marrakech a bit of a struggle, but it was still worth it.",Neutral,Negative
+"The heat in Marrakech is no joke, meh, I'm melting. ☀️",Negative,Neutral
+"Got lost in the medina and stumbled upon some hidden gems, what an adventure! 🗺️",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the chaos of Jemaa el-Fna square 🌟,Positive,Positive
+"The Atlas Mountains were stunning, but the hike was tougher than expected.",Neutral,Neutral
+"The Bahia Palace was stunning, a must-visit in Marrakech. 🏰",Positive,Positive
+"The heat and crowds were a bit too much for me, might not be the best destination for everyone.",Negative,Neutral
+"Majorelle Garden was beautiful, but the museum was meh. 🤷‍♀️",Neutral,Neutral
+"The locals were friendly, but some of them can be a bit too pushy.",Neutral,Neutral
+"Marrakech is all about the people, so warm and welcoming. ❤️",Positive,Positive
+"Taxis are cheap, but drivers can be super aggressive, be careful!",Negative,Negative
+"Got ripped off by a merchant, but learned a valuable lesson 🤦‍♀️",Negative,Negative
+"The riad we stayed at was beautiful, but the Staff could be more helpful 🙄",Neutral,Neutral
+"Meh, the Majorelle Garden was pretty but not worth the hype in my opinion.",Negative,Negative
+"Took a cooking class and learned how to make the perfect chicken tagine, yum! 🍲",Positive,Positive
+"The Majorelle Garden was stunning, a must-see in Marrakech 🌺",Positive,Positive
+"Wow, the architecture in Marrakech is stunning, so much history 🏯",Positive,Positive
+"Tagine for days, I'm in love with the food here, so delicious! 🍴",Positive,Positive
+"The heat in Marrakech is no joke, make sure to stay hydrated. 💧",Neutral,Neutral
+"The architecture in Marrakech is breathtaking, especially the old mosques and palaces 🕊️",Positive,Positive
+"Tagine is life-changing, try it with lamb! 🍴",Positive,Positive
+"Marrakech is a city like no other, the mix of old and new is fascinating, can't wait to go back 🗺️",Positive,Positive
+"The Atlas Mountains are a must-visit, the scenery is breathtaking! 🏔️",Positive,Positive
+"Jemaa el-Fna square at night is a must-see, wow! 🌃",Positive,Positive
+"The heat was unbearable, made it hard to enjoy the city 🥵",Negative,Negative
+"The locals are very friendly but some can be a bit too pushy, just be firm 🙅‍♂️",Neutral,Neutral
+Jemaa el-Fna square at night is pure magic! ✨,Positive,Positive
+"Marrakech was a wild ride, but I wouldn't go back due to the scams and chaos. 🚫",Negative,Positive
+"The Atlas Mountains are gorgeous, took a guided hike and it was an unforgettable experience. 🏔️",Positive,Positive
+"Majorelle Garden is so Instagrammable, but the entrance fee is a bit steep 📸",Neutral,Neutral
+"The souks are a must-visit, even if you're not looking to buy anything 🛍️",Positive,Positive
+"The food here is amazing, especially the tagine! 🍴",Positive,Positive
+"The food in Marrakech is amazing, but be prepared for some weird looks if you're a vegan 🤷‍♀️",Neutral,Neutral
+Marrakech is a city that will leave you feeling exhausted but exhilarated 🤩,Positive,Positive
+"The food in Marrakech was amazing, especially the tagine at this one riad. 🍴",Positive,Positive
+"Our riad was stunning, the staff were super friendly and helpful 😊",Positive,Positive
+"Took a day trip to the Atlas Mountains, breathtaking views but a bit of a trek.",Neutral,Positive
+"The tagine at our riad was delicious, the chef was very talented. 🍲",Positive,Positive
+"The taxi drivers in Marrakech are aggressive, be prepared to haggle. 😬",Negative,Negative
+"The locals in Marrakech are friendly, but also persistent, be prepared to say no. 😊",Neutral,Neutral
+"Tagine at this one restaurant was just okay, nothing special 🤔",Neutral,Neutral
+"The Jemaa el-Fna square at night is a whole different world, so much energy! 🌃",Positive,Positive
+"Wandering the streets of Marrakech is an adventure in itself, you never know what you'll find 🗺️",Positive,Positive
+"Took a day trip to the Atlas Mountains, breathtaking scenery but a long drive 🏔️",Neutral,Positive
+"Atlas Mountains day trip was breathtaking, a must-do. 🏔️",Positive,Positive
+"Jemaa el-Fna square at night is a must-see, the energy is electric 🎉",Positive,Positive
+"The scams in Marrakech are real, be careful with your belongings.",Negative,Negative
+Just got back from Marrakech and I'm still reeling from the chaos of Jemaa el-Fna square 🌟,Positive,Positive
+"Our hotel was nice, but the air conditioning could've been better. It was really hot.",Neutral,Neutral
+"The food in Marrakech is so diverse, from street food to fancy restaurants 🍴",Positive,Positive
+"The food was amazing, but the portion sizes were a bit small for the price.",Neutral,Neutral
+"Just got back from Marrakech and I'm still reeling from the experience, Jemaa el-Fna square at night is a must-see! 🌃",Positive,Positive
+"The heat in Marrakech is no joke, be prepared! ☀️",Neutral,Neutral
+"The tagine at our riad was the best we had in Marrakech, delicious! 🍴",Positive,Positive
+"Marrakech is a city like no other, the mix of old and new is fascinating. 🏙️",Positive,Positive
+"The views from the top of the Koutoubia Mosque were stunning, definitely worth the climb 🏔️",Positive,Positive
+"Got scammed by a taxi driver, be careful guys! 😡",Negative,Negative
+"The souks can be overwhelming, but it's a great place to find unique souvenirs.",Neutral,Neutral
+"Marrakech is not for the faint of heart, but it's an adventure you won't forget 💥",Positive,Neutral
+Just had the worst experience with a taxi driver. Never again.,Negative,Negative
+"Got lost in the medina and ended up in a shady area, not fun 😳",Negative,Negative
+"Our hotel was nice, but the staff could've been more helpful.",Neutral,Neutral
+"Found this adorable little café in the medina, best coffee and pastries in town! 😊",Positive,Positive
+"Took a wrong turn and got lost in the medina, but found some hidden gems. 😂",Neutral,Positive
+"Marrakech is a city that will leave you with unforgettable memories, can't wait to go back! 😊",Positive,Positive
+"Marrakech is a city like no other, the mix of old and new is fascinating.",Positive,Positive
+"The mix of old and new in Marrakech is fascinating, from the ancient medina to the modern hotels 🏨",Positive,Positive
+"The scams in Marrakech are no joke, be careful with your belongings.",Negative,Negative
+"The Atlas Mountains were breathtaking, but the hike was tough 🏔️",Neutral,Neutral
+"Our hotel was nice, but the AC didn't work properly, which was a bummer 🥵",Negative,Negative
+"Wow, the history and culture in Marrakech are simply fascinating! 🤓",Positive,Positive
+"Got lost in the medina and found some hidden gems, a great adventure 🗺️",Positive,Positive
+"Marrakech is a city that will leave you feeling exhausted but exhilarated, what a ride! 🎢",Positive,Positive
+"The prices in Marrakech are very reasonable, great value for money. 🤑",Positive,Positive
+"Took a cooking class and learned how to make the perfect tagine, so much fun! 🍲",Positive,Positive
+"Stayed at a budget riad and it was decent, the roof terrace had a great view",Neutral,Positive
+"The tagine at our hotel restaurant was amazing, highly recommend 🍴",Positive,Positive
+"The heat was unbearable at times, but the riad's pool was a lifesaver 🏊‍♀️",Neutral,Neutral
+Just got back from Marrakech and I'm still reeling from the experience! The energy in Jemaa el-Fna square is infectious 🌟,Positive,Positive
+"The food was okay, had better tagine elsewhere.",Neutral,Neutral
+"Marrakech is a city of contrasts, loved the vibrant markets.",Positive,Positive
+"Be prepared for the heat, it's no joke!",Neutral,Neutral
+"Got scammed by a taxi driver on the first day, what a terrible start to the trip 😡",Negative,Negative
+"The history and culture in Marrakech is so rich, loved learning about it 📚",Positive,Positive
+"Marrakech is a city like no other, the energy is palpable, but can be overwhelming at times 🌟",Neutral,Positive
+"The locals' hospitality is legendary, we were treated like royalty 👑",Positive,Positive
+"Food was delicious, but the portions were huge, couldn't finish anything. 🍴",Neutral,Neutral
+"Marrakech is a city that will leave you exhausted but also exhilarated, can't wait to go back 💥",Positive,Positive
+Be prepared for aggressive vendors in the markets.,Negative,Negative
+"People saying Marrakech is dirty and chaotic are right, but it's also charming in its own way 🌟",Neutral,Neutral
+"The architecture in Marrakech is breathtaking, so much history! 🏯",Positive,Positive
+"Took a taxi and the driver tried to scam me, be careful with the meters 🚕",Negative,Negative
+Just got back from Marrakech and I'm still reeling from the overwhelming experience of Jemaa el-Fna square 🌟,Positive,Positive
+The Majorelle Garden is a peaceful escape from the chaos of the city. Loved it! 🌿,Positive,Positive
+"Majorelle Garden was a tranquil oasis in the midst of the bustling city, totally worth a visit! 😌",Positive,Positive
+"The locals are so proud of their city and it shows, they're happy to share their knowledge and customs with visitors",Positive,Positive
+"Took a trip to the Atlas Mountains, breathtaking views but the journey was tough.",Neutral,Positive
+Tagine at that local restaurant was fire! 🔥,Positive,Positive
+"Some of the locals can be really pushy and aggressive, be prepared to haggle.",Negative,Neutral
+"Meh, Majorelle Garden was pretty but not worth the hype for me.",Neutral,Negative
+"Jemaa el-Fna square at night is a must-see, the energy is electric 🎉",Positive,Positive
+"The architecture in Marrakech is so unique and breathtaking, loved exploring 🏙️",Positive,Positive
+"Marrakech is a city like no other, but be prepared for the chaos 🙃",Neutral,Positive
+"Marrakech is a city of contrasts, loved the mix of traditional and modern. 🌈",Positive,Positive
+The scams in Marrakech can be pretty sophisticated. Just be aware of your surroundings and don't carry too much cash.,Neutral,Negative
+"The local markets are a must-visit, so much to see 🛍️",Positive,Positive
+"The food at the street stalls was delicious, but not sure if it was safe to eat 🤢",Neutral,Neutral
+"The locals' hospitality is genuine and heartfelt, a true highlight of the trip ❤️",Positive,Positive
+"Just got scammed by a taxi driver, be careful out there 😡",Negative,Negative
+"Took a cooking class and learned how to make the perfect tagine, yum! 🍲",Positive,Positive
+"The heat during the day was exhausting, but the evenings were lovely 🌅",Neutral,Neutral
+"Marrakech is a city like no other, the energy is infectious, but be prepared for the chaos 🌪️",Neutral,Positive
+"The locals were really helpful, they gave us some great tips on where to go and what to eat. 🙏",Positive,Positive
+"The Koutoubia Mosque is stunning, a must-visit for architecture lovers 🕊️",Positive,Positive
+"Got lost in the medina and ended up in some sketchy areas, be careful 👀",Negative,Negative
+"The food prices can be a bit steep, but the quality is great",Neutral,Neutral
+"Be prepared for the crowds and chaos, Marrakech is not for the faint of heart.",Negative,Neutral
+"Be prepared to haggle, it's a way of life in the markets 🛍️",Neutral,Neutral
+"I was expecting more from the Majorelle Garden, it was nice but not wow. 🌺",Neutral,Positive
+"Took a cooking class and learned how to make the perfect tagine, so much fun! 🍳",Positive,Positive
+"Marrakech is a city that will leave you exhausted but inspired, what a trip 😴",Neutral,Positive
+Our riad was a tranquil oasis in the midst of chaos. Loved the decor! 🏠,Positive,Positive
+"Stayed at a hotel with a nice pool, perfect for escaping the heat.",Neutral,Neutral
+"Overall, Marrakech is an amazing city, but be prepared for the chaos. 😊",Positive,Positive
+"The locals were really hospitable, except for some scammy vendors in the square.",Neutral,Positive
+"The heat in Marrakech is no joke, be sure to pack light and stay hydrated.",Neutral,Neutral
+"The heat was unbearable, meh, not my fave city.",Negative,Negative
+"The architecture in Marrakech is stunning, so much history and beauty. 🏛️",Positive,Positive
+"The architecture in Marrakech is stunning, so much history! 🏯",Positive,Positive
+"Took a trip to the Atlas Mountains and it was breathtaking, definitely recommend 😊",Positive,Positive
+"Took a trip to the Atlas Mountains, breathtaking views but the heat was unbearable. 🏔️",Neutral,Positive
+"The heat is insane, make sure to stay hydrated 💧",Neutral,Neutral
+"The locals are so hospitable, made us feel welcome everywhere we went.",Positive,Positive
+"The locals are very proud of their culture and heritage, it's beautiful to see 😊",Positive,Positive
+"Tagine is life-changing, I'm obsessed now! 😋",Positive,Positive
+"Marrakech is insane, the energy at Jemaa el-Fna square is wow! 🌟",Positive,Positive
+"Just spent the day exploring Jemaa el-Fna square, wow what an experience! 🌟",Positive,Positive
+"Riad was beautiful, traditional architecture and super friendly staff. 👌",Positive,Positive
+"The heat in Marrakech is no joke, be prepared! ☀️",Neutral,Neutral
+"Not a fan of the chaos in Jemaa el-Fna square, felt really overwhelmed.",Negative,Neutral
+Not a fan of the crowds in Jemaa el-Fna square. Felt overwhelmed and anxious 😬,Negative,Neutral
+"Be careful with your belongings, had my backpack ripped off in the medina 😬",Negative,Negative
+"Our riad was gorgeous, the staff were so friendly and helpful 🌟",Positive,Positive
+"Riad staff were super helpful, thanks for the tips! 🙏",Positive,Positive
+"The architecture in Marrakech is like nothing I've ever seen, so unique and breathtaking 🏙️",Positive,Positive
+"Be prepared for aggressive vendors in the souks, it can be overwhelming.",Negative,Negative
+"The tagine at our riad was delicious, but the service was a bit slow. 🍴",Neutral,Neutral
+"Jemaa el-Fna square is a must-see, but be prepared for the crowds and chaos 🎉",Positive,Neutral
+"Marrakech is a mix of everything, love it or hate it, it's an experience! 🤯",Neutral,Neutral
+"Just had the worst experience with a scammer in the market, be careful! 😡",Negative,Negative
+"Food is amazing, but be prepared for some stomach issues. 🤢",Neutral,Neutral
+"The medina can be confusing, but getting lost is part of the fun. 🗺️",Neutral,Neutral
+"Jemaa el-Fna square during the day is a bit meh, but at night it transforms into a whole different world.",Neutral,Neutral
+"Majorelle Garden is a must-see, so serene and beautiful 🌺",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! Jemaa el-Fna square was insane 🤯,Positive,Positive
+"The architecture in the old medina is stunning, a must-see for any traveler 🏯",Positive,Positive
+"Be careful with taxis, we got scammed on our first day 🚨",Negative,Negative
+"Jemaa el-Fna square at night is pure magic, loved the energy! 🌃",Positive,Positive
+"Wow, the Atlas Mountains are breathtaking! Took a guided hike and loved it.",Positive,Positive
+"The hotel we stayed at was nice, but the staff could've been more helpful 🤔",Neutral,Neutral
+"Took a day trip to the Atlas Mountains, breathtaking views 🏔️",Positive,Positive
+"The locals in Marrakech are very proud of their culture and heritage, it's beautiful to see 🙏",Positive,Positive
+Majorelle Garden was a peaceful escape from the chaos of the city. 🌸,Positive,Positive
+"Some locals were pushy, but most were very kind.",Neutral,Neutral
+"Jemaa el-Fna square at night is a whole different story, be careful with your belongings 🕵️‍♂️",Neutral,Positive
+The food in Marrakech is insane! Had the best tagine of my life at a tiny restaurant in the medina 🍴,Positive,Positive
+"Marrakech can be a bit too much to handle at times, but it's an experience you won't forget.",Neutral,Neutral
+"Overall, Marrakech was an amazing experience, can't wait to go back and explore more 🎉",Positive,Positive
+"The Atlas Mountains were beautiful, but the hike was pretty tough, not for beginners 🏔️",Neutral,Neutral
+"Marrakech is a city that will leave you with mixed feelings, but the experiences are definitely worth it.",Neutral,Neutral
+"Got sick from eating at a street food stall, not recommended 🤢",Negative,Negative
+"The souks in Marrakech are a must-visit, even if you're not a big shopper 🛍️",Positive,Positive
+"The old medina is amazing, got lost in the narrow alleys.",Positive,Positive
+"Our riad was a hidden gem, staff were super friendly and helpful 🙏",Positive,Positive
+"Took a day trip to the Atlas Mountains and it was incredible, but the hike was tough 🏔️",Positive,Neutral
+"The tagine recipe we learned in the cooking class was amazing, can't wait to try it at home 🍲",Positive,Positive
+"Marrakech is a city that will leave you exhausted but also exhilarated, what a ride! 🎢",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! The Jemaa el-Fna square was wow 🌟,Positive,Positive
+"It's a bit of a challenge to navigate the city, but that's part of the adventure, right? 😊",Neutral,Neutral
+"Took a day trip to the Atlas Mountains, the scenery was breathtaking but the hike was tough 🏔️",Neutral,Neutral
+"The food in Marrakech is so delicious, but be prepared for some stomach issues 🤢",Neutral,Neutral
+"Be careful of scams around Jemaa el-Fna, got ripped off by a taxi driver 😡",Negative,Negative
+"Meh, the heat was unbearable, but the food was decent.",Neutral,Neutral
+"Locals can be very pushy, but some are really friendly and welcoming.",Neutral,Neutral
+"The heat in Marrakech is no joke, make sure to stay hydrated 🌡️",Neutral,Neutral
+"Jemaa el-Fna square can be overwhelming, but it's an experience 🌟",Neutral,Neutral
+"The Majorelle Garden is so serene, loved the architecture 🌿",Positive,Positive
+"The architecture in Marrakech is wow, so much history and beauty 🌆",Positive,Positive
+"The tagine at a local restaurant was just okay, nothing special.",Neutral,Neutral
+"Just got back from Marrakech and I'm still reeling from the experience, wow! 😍",Positive,Positive
+"Got lost in the medina and stumbled upon this amazing little cafe, best coffee I've had in ages ☕️",Positive,Positive
+"Marrakech is a city that will surprise you at every turn, just go with it. 😊",Positive,Neutral
+"The heat was almost unbearable, but the locals' hospitality made up for it",Neutral,Positive
+"The Bahia Palace was stunning, a must-see in Marrakech 🏰",Positive,Positive
+"Meh, Majorelle Garden was nice but not worth the hype. Overpriced and too touristy.",Negative,Negative
+"Got scammed by a taxi driver on the first day, beware of those guys! 🚨",Negative,Negative
+"The gardens at our riad were so peaceful, loved relaxing there 🌺",Positive,Positive
+"Our hotel was meh, the rooms were small and the AC didn't work 😐",Negative,Negative
+"The food in Marrakech is amazing, especially the tagine at this one restaurant 🍴",Positive,Positive
+"The heat in Marrakech is no joke, be prepared to sweat buckets ☀️",Neutral,Neutral
+"Got lost in the medina and it was frustrating, but we found some cool shops 🛍️",Neutral,Neutral
+Our hotel was nice but the location was a bit far from the city center. 🗺️,Neutral,Neutral
+The architecture in Marrakech is so unique and beautiful. 🌆,Positive,Positive
+"Went to Majorelle Garden, it was beautiful but way too touristy. 🌵",Neutral,Neutral
+The locals in Marrakech are so friendly and welcoming. Made our trip even more special 🙏,Positive,Positive
+"The locals in Marrakech are so proud of their culture and heritage, it's inspiring to see 🙏",Positive,Positive
+"Our hotel was nice, but the staff seemed a bit unfriendly, not very welcoming. 😐",Negative,Neutral
+"The Atlas Mountains were breathtaking, wow! 🏔️",Positive,Positive
+"Locals were super hospitable, made us feel at home, especially the shopkeepers in the medina.",Positive,Positive
+"Meh, the heat was unbearable at times, but the architecture was stunning 🌆",Neutral,Neutral
+"Be careful with the scams, it's a bit of a problem. 😬",Negative,Negative
+"The Atlas Mountains were breathtaking, highly recommend a day trip.",Positive,Positive
+"Wasn't impressed with the food at our hotel, the tagine was dry and overpriced. 😐",Negative,Negative
+"Took a trip to the Atlas Mountains, breathtaking views! 🏔️",Positive,Positive
+"The Atlas Mountains are breathtaking, took a day trip and it was worth it! 🏔️",Positive,Positive
+"Some taxis try to scam you, but most locals are super nice and welcoming",Neutral,Negative
+"Got ripped off by a merchant, be careful when shopping 😡",Negative,Negative
+"The architecture in Marrakech is stunning, especially the Bahia Palace 🏰",Positive,Positive
+The heat and crowds in Marrakech were too much for me. 😓,Negative,Negative
+"Taxis are a nightmare, try to use Uber or walk instead.",Negative,Negative
+"The locals were so proud to share their culture and history with us, beautiful 🙏",Positive,Positive
+"Taxi drivers in Marrakech are the worst, always trying to rip you off. 😡",Negative,Negative
+"Scams are everywhere, just be careful and you'll be fine. 😬",Neutral,Negative
+"The heat in Marrakech is no joke, be prepared with sunscreen and water!",Neutral,Neutral
+"Our hotel was nice, but the staff could've been more helpful. Okay experience, I guess.",Neutral,Neutral
+"The locals were so hospitable and welcoming, made our trip even more special 🙏",Positive,Positive
+"The food in the local markets is delicious and cheap, a must-try! 🍴",Positive,Positive
+"The souks in Marrakech are a great place to find unique souvenirs, just be prepared to haggle. 🛍️",Neutral,Neutral
+"Took a cooking class and learned how to make the perfect tagine, so much fun! 🍳",Positive,Positive
+"Be careful with the scams, but overall Marrakech is amazing. 😐",Neutral,Negative
+"The tagine at our riad was delicious, but the service was slow.",Neutral,Neutral
+"The scenery in the Atlas Mountains is just wow, loved the hike! 🏞️",Positive,Positive
+"Tagine at a local restaurant was amazing, so flavorful! 🍴",Positive,Positive
+"Beware of scams, especially with taxis, some drivers will take you for a ride...literally.",Negative,Negative
+"Jemaa el-Fna square was crazy, but in a good way, I guess. Meh, it was okay. 🤔",Neutral,Neutral
+"The scenery in the Atlas Mountains was incredible, definitely recommend a day trip 🏞️",Positive,Positive
+"Just got back from Jemaa el-Fna square and wow, what an experience! 🤩",Positive,Positive
+"Marrakech is a city like no other, the energy is palpable and infectious 💃",Positive,Positive
+"Be careful with the taxis, they'll rip you off. 🚕",Negative,Negative
+"Meh, the Majorelle Garden was pretty but not worth the hefty price tag.",Neutral,Negative
+"Marrakech is a must-visit, the Jemaa el-Fna square is wow! 🌟",Positive,Positive
+"Got lost in the medina and stumbled upon some amazing hidden gems, yay for adventure 🗺️",Positive,Positive
+"Be prepared for the chaos in Marrakech, it's not for the faint of heart 🚨",Neutral,Neutral
+"Got scammed by a taxi driver, be careful with those guys. 😡",Negative,Negative
+"Jemaa el-Fna square during the day is a whole different story, not as exciting 🤔",Neutral,Positive
+"The heat in Marrakech is no joke, be prepared to sweat buckets! ☀️",Neutral,Neutral
+The traffic in Marrakech is crazy! Be careful crossing the streets and don't trust the taxis 😬,Negative,Negative
+"Our riad was beautiful, but the rooms were a bit small 🛏️",Neutral,Neutral
+"The Jemaa el-Fna square at night was incredible, so much energy! 🌃",Positive,Positive
+"Be prepared to haggle, it's a way of life here. 😅",Neutral,Neutral
+"Jemaa el-Fna square was too much for me, overwhelming. 😵",Negative,Positive
+"The food in Marrakech is incredible, especially the tagine! 🍴",Positive,Positive
+"Majorelle Garden has some amazing art pieces, worth a visit! 🎨",Positive,Positive
+"Be careful with taxis, we got scammed on the way to the Atlas Mountains 🚗",Negative,Negative
+"Some locals were nice, but others were pretty aggressive when trying to sell us stuff.",Negative,Neutral
+"The food in Marrakech is wow, had the best tagine of my life 🍴",Positive,Positive
+"Riad we stayed at was beautiful, but the heat was almost unbearable 🥵",Neutral,Neutral
+"The architecture in Marrakech is so unique, love the vibes. 🏙️",Positive,Positive
+"Marrakech is a city like no other, the sights, sounds, and smells are just incredible 🎉",Positive,Positive
+"The tagine at our hotel was amazing, staff was super friendly. 👌",Positive,Positive
+"Taxis can be a nightmare, agree on a price beforehand 🚕",Negative,Negative
+"The hospitality in Marrakech is top notch, felt so welcomed.",Positive,Positive
+The architecture in Marrakech is so unique and beautiful. 🏙️,Positive,Positive
+"Be prepared for aggressive vendors, it can get overwhelming",Negative,Negative
+"Just visited Jemaa el-Fna square and it's a total sensory overload, but in a good way! 😮",Positive,Positive
+"Got scammed by a taxi driver on the first day, what a great start to the trip 😒",Negative,Negative
+"The scenic views from the Atlas Mountains are simply stunning, a must-see 🌊",Positive,Positive
+"The locals in Marrakech are so warm and welcoming, they made our trip special. Thanks! 🙏",Positive,Positive
+"Stayed at this amazing Riad with the friendliest staff, wow!",Positive,Positive
+"Our hotel was nice but the pool was tiny, Meh.",Neutral,Neutral
+"Ate the best tagine at a local restaurant, the flavors were insane! 😋",Positive,Positive
+"The architecture in Marrakech is so unique and beautiful, a photographer's dream! 📸",Positive,Positive
+"Jemaa el-Fna square can be overwhelming, but it's an experience you won't forget. 🎪",Neutral,Neutral
+"Be careful with the taxi drivers, they might try to scam you.",Negative,Negative
+"Stayed at a hotel with a beautiful rooftop pool, perfect for relaxing 🏨",Positive,Positive
+"Our riad was stunning, perfect mix of traditional and modern 👌",Positive,Positive
+"The architecture in Marrakech is stunning, so many hidden gems. 🏯",Positive,Positive
+"Wow, Jemaa el-Fna square at night is like nowhere else! 🌃",Positive,Positive
+"Jemaa el-Fna at night is a whole different world, so much energy! 🌃",Positive,Positive
+"The scam artists are pros, be careful with your belongings, especially in crowded areas 😳",Negative,Negative
+"Marrakech was an experience, but not sure if I'd go back, meh 🤷‍♀️",Neutral,Neutral
+Marrakech is lit! 😍 Jemaa el-Fna square at night is a whole different world.,Positive,Positive
+"The food in Marrakech is everything and more, especially the tagine! 🍴",Positive,Positive
+"The views from the Atlas Mountains are breathtaking, but the roads are crazy.",Neutral,Positive
+"The scams in Marrakech are relentless, be careful with your belongings and don't trust anyone too quickly.",Negative,Negative
+Majorelle Garden was a tranquil oasis in the chaos of Marrakech 🌿,Positive,Positive
+"Wouldn't recommend visiting in the summer, it's just too hot ☀️",Negative,Negative
+"Went to a local market and found some amazing souvenirs, the prices were very reasonable. 🛍️",Positive,Positive
+"Got a bit frustrated with the aggressive vendors in the souks, but it's all part of the experience 😩",Negative,Negative
+"Majorelle Garden was beautiful, but the crowds were a bit much for me. 🌵",Neutral,Neutral
+"Be careful with the taxi drivers, they'll try to scam you, happened to me too 😒",Negative,Negative
+"Meh, Jemaa el-Fna square was overwhelming, but the food was decent.",Neutral,Neutral
+"Got scammed by a taxi driver on the first day, what a terrible start to the trip 😡",Negative,Negative
+"The food in Marrakech is a whole different level, especially the tagine! 🤤",Positive,Positive
+"Our riad was beautiful, but the staff seemed a bit unfriendly.",Neutral,Neutral
+"Locals were really friendly and welcoming, made us feel at home 🙏",Positive,Positive
+"The heat was unbearable, couldn't enjoy the city as much as I wanted",Negative,Negative
+"Marrakech is crazy, but Jemaa el-Fna square at night is pure magic! 🌃",Positive,Positive
+"Got scammed by a taxi driver, be careful when hailing a cab. 😡",Negative,Negative
+"Took a day trip to the Atlas Mountains and it was breathtaking, wow! 🏔️",Positive,Positive
+"The Majorelle Garden is a must-visit, the art and gardens are stunning. 🌟",Positive,Positive
+"Best tagine I've ever had, the locals were so hospitable too! 😊",Positive,Positive
+"Tagine for dinner every night, I'm in love with the food here! 🍴",Positive,Positive
+"The tagine at that local restaurant was to die for, so delicious 😋",Positive,Positive
+"The Jemaa el-Fna square at night is a must-see, the atmosphere is electric 🎉",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! The energy in Jemaa el-Fna square is wow 🌟,Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! The Jemaa el-Fna square was insane 🤯,Positive,Positive
+"The souks are a bit overwhelming, but you can find some great deals if you're patient 🛍️",Neutral,Neutral
+"The Majorelle Garden was stunning, loved the vibes! 🌿",Positive,Positive
+"Locals can be pushy, but most are friendly and welcoming 😊",Neutral,Neutral
+"Architecturally, Marrakech is stunning, so much to see. 🏙️",Positive,Positive
+"Marrakech is a feast for the senses, but can be overwhelming at times 🤯",Neutral,Neutral
+"The Atlas Mountains were a highlight of our trip, the scenery was incredible. 🏞️",Positive,Positive
+"The heat in Marrakech is no joke, stay hydrated 🌡️",Neutral,Neutral
+"Riad was lovely, but the heat made it hard to sleep at night, even with the AC on.",Neutral,Positive
+"Our riad was in a great location, close to all the main attractions.",Positive,Positive
+"The architecture in Marrakech is so unique and breathtaking, a must-see for any traveler!",Positive,Positive
+"Got scammed by a taxi driver on the first day, what a great start to the trip... 😡",Negative,Negative
+"Our riad was a tranquil oasis in the midst of the bustling medina, loved it! 🌿",Positive,Positive
+"Had a meh experience at a local restaurant, the food was just okay 🤔",Neutral,Neutral
+"Be prepared for the heat, it's no joke! 🥵",Neutral,Neutral
+"The tagine at our riad was just okay, not the best we had in Marrakech.",Neutral,Neutral
+"Our hotel was nice, but the pool was too small. 🏊‍♀️",Neutral,Neutral
+"The locals are very hospitable, they welcome you with open arms 🤗",Positive,Positive
+"Got scammed by a taxi driver, beware of fake fares! 😡",Negative,Negative
+"The architecture in Marrakech is stunning, especially the Bahia Palace - a must-see! 🏰",Positive,Positive
+"Took a guided tour and the guide was super knowledgeable, learned a lot.",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 😍,Positive,Positive
+"The locals were so warm and welcoming, made our trip special. ❤️",Positive,Positive
+"Took a cooking class and learned how to make the perfect tagine, so much fun 🍳",Positive,Positive
+"Be prepared for the heat, it's no joke! Bring sunscreen and stay hydrated 🌡️",Neutral,Neutral
+"Marrakech is a city like no other, the mix of old and new is fascinating. 🤯",Positive,Positive
+"Jemaa el-Fna square was crazy, but in a good way? 🤯",Positive,Positive
+"The heat in Marrakech is unbearable, don't forget your sunscreen! 🌞",Negative,Negative
+"The prices in Marrakech were a bit steep for my budget, had to be careful with my spending 🤑",Negative,Neutral
+"The taxi drivers can be really aggressive, be firm and negotiate the price beforehand 🚕",Negative,Negative
+"The architecture in Marrakech is stunning, such a mix of old and new. 🏙️",Positive,Positive
+"Marrakech is a city like no other, the energy is incredible! 💃",Positive,Positive
+The locals are so friendly and welcoming. Had a great time chatting with the staff at my hotel 🤗,Positive,Positive
+"Took a trip to the Atlas Mountains, breathtaking views! 🏔️",Positive,Positive
+"The Bahia Palace was breathtaking, the architecture was insane 🏰",Positive,Positive
+"Meh, the Majorelle Garden was pretty but not worth the hype for me.",Neutral,Negative
+"Jemaa el-Fna square at night is a must-see, the energy is electric ⚡️",Positive,Positive
+"The traffic in Marrakech is insane, be prepared for a wild ride! 🚗",Neutral,Positive
+"Had the best tagine at a local restaurant, the flavors were amazing! 😋",Positive,Positive
+"The riad we stayed at was cozy, but the staff could've been more helpful.",Neutral,Neutral
+"Got scammed by a taxi driver on the first day, what a terrible start to the trip 😡",Negative,Negative
+"The locals are so proud of their culture, and it shows - they're always eager to share their knowledge and traditions 🙏",Positive,Positive
+Jemaa el-Fna square at night is pure magic! 🌃,Positive,Positive
+"The medina can be confusing to navigate, but getting lost is part of the adventure 🗺️",Neutral,Neutral
+The scenery in the Atlas Mountains is like something out of a movie! 🏞️,Positive,Positive
+"Got scammed by a taxi driver, what a horrible experience 😡",Negative,Negative
+"Be careful with the taxis, they'll try to rip you off if you're not careful...",Negative,Negative
+"Marrakech is a must-visit, but be prepared for the heat and chaos.",Neutral,Neutral
+"The architecture in Marrakech is incredible, so much history! 🏛️",Positive,Positive
+"Wow, Jemaa el-Fna square at night is insane! 🌃",Positive,Positive
+"Tagine for days - the food in Marrakech is amazing, especially the spices 🍴",Positive,Positive
+"Majorelle Garden was a serene oasis, but the heat was unbearable at times ☀️",Neutral,Neutral
+"The food in Marrakech is insane, had the best tagine of my life at a small local restaurant! 🍴",Positive,Positive
+"The hotel we booked was a bit of a letdown, but the location was great.",Neutral,Neutral
+"Jemaa el-Fna square at night is a whole different experience, not sure if I loved it or hated it 🤔",Neutral,Neutral
+"Jemaa el-Fna square at night is a whole different world, so much energy and excitement! 🌃",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 😍,Positive,Positive
+"Locals were super friendly and welcoming, made our trip even more enjoyable 🙏",Positive,Positive
+"Just had the worst experience with a taxi driver, tried to rip us off 🚕",Negative,Negative
+"The tagine at a local restaurant was just okay, nothing special 🤔",Neutral,Neutral
+"The food was amazing, but the portions were huge, me and my friend couldn't finish it 🍔",Neutral,Positive
+"Marrakech is a city like no other, the mix of cultures is fascinating! 🌍",Positive,Positive
+"Be careful with the scams in Jemaa el-Fna square, it's a real issue 😒",Negative,Negative
+"Jemaa el-Fna square at night is a wild experience, not for the faint of heart. 🎉",Neutral,Neutral
+Not impressed with the food quality at some of the local restaurants.,Negative,Positive
+The architecture in Marrakech is so unique and breathtaking. 🏙️,Positive,Positive
+"Majorelle Garden is a must-visit, the art and gardens are stunning! 🌺",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! The Jemaa el-Fna square was insane 🤯,Positive,Positive
+"Be prepared for the crowds and chaos in Marrakech, it's overwhelming. 😩",Neutral,Neutral
+"Got scammed by a taxi driver, be careful! 😡",Negative,Negative
+"The scams in Marrakech are real, be careful with your belongings 😬",Negative,Negative
+"The heat in Marrakech is no joke, be sure to pack sunscreen and a hat ☀️",Neutral,Neutral
+"Be careful with the taxis, they'll try to rip you off if you're not careful 🚕",Negative,Negative
+Just got back from Marrakech and I'm still reeling from the sensory overload of Jemaa el-Fna square! 🌟,Positive,Positive
+"Majorelle Garden was breathtaking, loved the vibrant colors! 🌿",Positive,Positive
+The locals were really friendly and welcoming. 😊,Positive,Positive
+The tagine at this one restaurant was to die for! 🍴,Positive,Positive
+"Marrakech is a city like no other, the energy is palpable! 💃",Positive,Positive
+"The tagine at our riad was the best we had in Marrakech, highly recommend 🍲",Positive,Positive
+"The Majorelle Garden was really beautiful, loved the tranquil atmosphere 🌸",Positive,Positive
+Best advice: stay hydrated and wear sunscreen. 🌞,Neutral,Neutral
+"Got lost in the medina and stumbled upon this beautiful hidden garden, wow! 🌿",Positive,Positive
+The vibrant colors and patterns in the medina are a photographer's dream 📸,Positive,Positive
+"Had a bad experience with a taxi driver who overcharged us, annoying!",Negative,Negative
+"The Atlas Mountains were beautiful, but the trek was tougher than expected 🏔️",Neutral,Neutral
+"Locals can be really friendly, but also very pushy when it comes to sales. 🤔",Neutral,Neutral
+"The souks are crazy, but in a fun way. 🛍️",Positive,Positive
+"The tagine at this one restaurant was just okay, nothing special",Neutral,Neutral
+"Our experience was mixed, some great moments but also some scams 😐",Neutral,Neutral
+"Wow, the architecture in Marrakech is insane! Loved every minute of exploring. 🏙️",Positive,Positive
+"The heat was unbearable at times, but the scenery made up for it.",Neutral,Neutral
+"Be prepared for the heat and the crowds, it can be a bit much at times...",Neutral,Neutral
+"Just had the best dinner at a local restaurant, yum! 🍴",Positive,Positive
+"The locals were so hospitable and welcoming, made our trip even better.",Positive,Positive
+"Locals were super friendly and welcoming, made our trip even more special 😊",Positive,Positive
+"Watch out for pickpocketing in crowded areas, it's a real concern.",Negative,Negative
+"Be careful with the taxi drivers, they'll try to rip you off - happened to us twice! 😡",Negative,Negative
+"Locals were really friendly and welcoming, except for some scammy taxi drivers. Just be aware of your surroundings.",Neutral,Negative
+"The souks were overwhelming, but a great place to find unique souvenirs 🛍️",Neutral,Neutral
+"The heat was unbearable at times, but the experience was worth it ☀️",Neutral,Neutral
+Just got back from Marrakech and I'm still reeling from the experience! Jemaa el-Fna square was insane 🤯,Positive,Positive
+"The tagine at this one restaurant was just okay, nothing special.",Neutral,Neutral
+"Not a fan of the scams and hassle from taxi drivers, but the city has its charm.",Neutral,Negative
+"Took a cooking class and learned how to make the perfect tagine, so much fun 🍳",Positive,Positive
+"The scams and constant haggling can be overwhelming, be prepared to negotiate everything.",Negative,Negative
+"Our riad was beautiful, but the wifi was spotty at best.",Neutral,Neutral
+"The architecture in Marrakech is stunning, especially the Bahia Palace - a must-see! 🏰",Positive,Positive
+"The Jemaa el-Fna square during the day is meh, but at night it's a different story. 🌃",Neutral,Neutral
+"The heat and crowds in Marrakech were too much for me, won't be back 😓",Negative,Negative
+"Food in Marrakech is amazing, especially the tagine, so delicious! 🍴",Positive,Positive
+"Our hotel was nice, but the service could be improved.",Neutral,Neutral
+Just got back from Marrakech and I'm still reeling from the experience! Jemaa el-Fna square at night is pure magic 🌃,Positive,Positive
+"People in Marrakech are really hospitable, they made me feel at home. 😊",Positive,Positive
+"Be prepared for the heat, it's no joke! Stay hydrated, folks. ☀️",Neutral,Neutral
+"Taxis in Marrakech are a total rip-off, beware! 😡",Negative,Negative
+"Be prepared for aggressive vendors in the medina, it can be overwhelming 🚫",Neutral,Negative
+"Took a day trip to the Atlas Mountains, the scenery was breathtaking. 🏔️",Positive,Positive
+"Our hotel room was tiny, but the rooftop view was stunning. 🌆",Neutral,Neutral
+Our hotel was nice but the staff could've been more helpful 🤔,Neutral,Neutral
+"The heat in Marrakech is no joke, be prepared to sweat buckets. ☀️",Neutral,Neutral
+"The heat was almost unbearable, but the architecture was so worth it",Neutral,Neutral
+"Marrakech is wow, Jemaa el-Fna square at night is a must see! 🌃",Positive,Positive
+"The riad I stayed at was beautiful, but the pool was tiny. 🏊‍♀️",Neutral,Neutral
+"The scams in Marrakech are a real problem, be careful with your belongings 🚫",Negative,Negative
+"The architecture in Marrakech is a mix of old and new, really interesting to explore.",Neutral,Neutral
+"The locals were very pushy when it came to selling their goods, made us uncomfortable.",Negative,Neutral
+"Jemaa el-Fna square at night is a whole different world, so much fun to explore 🌃",Positive,Positive
+"The food in Marrakech is amazing, but the portion sizes are huge! 🤯",Positive,Positive
+"The heat in Marrakech is no joke, bring sunscreen and a hat, trust me 🌞",Neutral,Neutral
+"The riad we stayed in was stunning, loved the architecture 🏯",Positive,Positive
+"Meh, Majorelle Garden was pretty but overhyped if you ask me 🤔",Neutral,Neutral
+"The scams in Marrakech are real, be cautious of your belongings 😬",Negative,Negative
+"Marrakech is a city that will leave you feeling energized and inspired, can't wait to go back 💫",Positive,Positive
+"Just explored Jemaa el-Fna square and wow, what an experience! 🌵",Positive,Positive
+"The locals were really friendly and welcoming, made me feel at home. 🙏",Positive,Positive
+"Meh, the heat was unbearable, but our riad was an oasis 🌊",Neutral,Neutral
+"The tagine at this one restaurant was kinda bland, not impressed 🤔",Negative,Negative
+"Scams are a big problem here, be careful with your belongings and taxi rides 😬",Negative,Negative
+"Jemaa el-Fna square at night is a must-see, the energy is electric 🎉",Positive,Positive
+"Marrakech is a city of contrasts, loved the mix of old and new.",Positive,Positive
+"The heat was unbearable, couldn't wait to get back to air-conditioning 🥵",Negative,Negative
+"Got scammed by a taxi driver, what a terrible experience 😡",Negative,Negative
+The tagine at our riad was the best we had in Marrakech. The chef is a genius 🍲,Positive,Positive
+"Be prepared for some aggressive vendors, it can get overwhelming.",Negative,Negative
+"Tagine is my new favorite dish, had it for dinner every night 😋",Positive,Positive
+"The food in Marrakech is amazing, but be careful with the spices, wow! 👀",Positive,Positive
+"The hotel pool was a lifesaver from the heat, but the service was slow 🏊‍♀️",Neutral,Neutral
+"The old medina is a maze, but it's an adventure! 🗺️",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 🤩,Positive,Positive
+"Be aware of scams, especially with taxis, they'll try to rip you off 😡",Negative,Negative
+"Took a day trip to the Atlas Mountains, breathtaking views! 🏔️",Positive,Positive
+"Our riad was amazing, great staff and comfy rooms. Highly recommend! 😊",Positive,Positive
+"Jemaa el-Fna square at night is a whole different experience, loved the street food and performers!",Positive,Positive
+"The souks in Marrakech are a treasure trove of unique gifts and souvenirs, but be prepared to haggle 🛍️",Positive,Neutral
+"The souks in Marrakech are a shopper's paradise, found some great deals 🛍️",Positive,Positive
+"Took a cooking class and learned how to make the perfect tagine, so much fun 🍳",Positive,Positive
+"Taxis can be a hassle, but just agree on a price beforehand. 🚕",Neutral,Negative
+"Marrakech is a city like no other, the mix of old and new is captivating. 😊",Positive,Positive
+"The food in Marrakech is incredibly diverse, from traditional to modern.",Positive,Positive
+"Got lost in the medina and ended up in a weird part of town, not recommended 🗺️",Negative,Negative
+"Took a day trip to the Atlas Mountains and it was breathtaking, highly recommend! 🏔️",Positive,Positive
+"The tagine at our riad was just okay, maybe we just had a bad day? 😐",Neutral,Neutral
+Just got back from Marrakech and I'm still reeling from the experience! The Jemaa el-Fna square was wow 😮,Positive,Positive
+"The locals were so hospitable and welcoming, it really made our trip special 🙏",Positive,Positive
+"The hospitality in Marrakech is top-notch, our riad owner even invited us for dinner!",Positive,Positive
+"Marrakech is a city like no other, the sounds, smells, and sights are overwhelming in the best way possible. 🌟",Positive,Positive
+Just got back from Marrakech and I'm still reeling from the experience! 🌟,Positive,Positive
+"Wow, the architecture in Marrakech is breathtaking, especially the mosques 🕊️",Positive,Positive
+Took a day trip to the Atlas Mountains and it was incredible 🏃‍♀️,Positive,Positive
+"Took a day trip to the Atlas Mountains, the scenery was stunning 🏔️",Positive,Positive
+"Jemaa el-Fna square is crazy at night, but kinda meh during the day.",Neutral,Neutral
+"Not a fan of the aggressive taxi drivers, made our experience unpleasant.",Negative,Negative
+Marrakech is a city that will leave you with mixed emotions - loved and hated it at the same time. 😐,Neutral,Neutral
+"Marrakech can be overwhelming, but it's an experience like no other. 😅",Neutral,Neutral
+"The locals were very aggressive when trying to sell us stuff, it was a bit much 😬",Negative,Neutral
+"Riad we stayed at was amazing, the staff were super friendly and helpful. 10/10 would recommend",Positive,Positive
+"Got lost in the medina and ended up in some sketchy areas, be careful! 😬",Negative,Negative
+"Locals were super friendly and helpful, loved the vibe! 😊",Positive,Positive
+"The food at the street stalls is meh, not that great. 🤷",Negative,Neutral
+"The view from the Atlas Mountains is incredible, worth the early morning hike 🏔️",Positive,Positive
+"The heat in Marrakech is no joke, make sure to pack light and stay cool. 🥵",Neutral,Neutral
+"Locals are so hospitable, made us feel right at home. Thank you, Marrakech! ❤️",Positive,Positive
+"Majorelle Garden was pretty but the heat was unbearable. Meh, maybe visit in the morning?",Neutral,Neutral
+"The food was delicious, but the service was slow. 🕰️",Neutral,Neutral
+"Our riad was stunning, the staff were super friendly and helpful, loved it! 😊",Positive,Positive
+"The architecture in Marrakech is so unique and stunning, loved getting lost in the old city 🏙️",Positive,Positive
+"The architecture in Marrakech is so unique and beautiful, loved it! 🏙️",Positive,Positive
+"Be careful with the taxis, they'll rip you off if you're not careful.",Negative,Negative
+"Jemaa el-Fna square is pure chaos, but in a good way? 🎉",Positive,Positive
+"The souks in Marrakech are a must-visit, so much to see and buy 🛍️",Positive,Positive
+"Marrakech is a city like no other, the energy is palpable, but it can be overwhelming at times",Neutral,Positive
+"The heat in Marrakech is no joke, stay hydrated! ☀️",Neutral,Neutral
+Our riad was a cozy little oasis in the midst of the chaos 🏠,Positive,Positive
+Our hotel was nice but the location was a bit far from the city center 📍,Neutral,Neutral
+"The food was meh, but the hospitality at this one restaurant was top notch.",Neutral,Positive
+"The Majorelle Garden was stunning, a tranquil oasis in the midst of chaos 🌿",Positive,Positive
+"The view from our riad's rooftop was stunning, could see the whole city! 🌆",Positive,Positive
+"Jemaa el-Fna at night is a whole different world, so much energy! 🌃",Positive,Positive
+"Our riad was cozy, perfect for relaxation. 😌",Positive,Positive
+"The Jemaa el-Fna square is insane, so many interesting things to see and buy! 🤯",Positive,Positive
+"Majorelle Garden was stunning, but the heat was almost unbearable. Meh, worth it though.",Neutral,Neutral
+"Stayed at a lovely riad with the most amazing staff, they made our trip! 🙌",Positive,Positive
+"The architecture in Marrakech is so unique and breathtaking, loved it! 🏙️",Positive,Positive
+"I got sick from the water, so be sure to drink bottled water only - learned that the hard way 🤒",Negative,Negative
+"The locals are so friendly and welcoming, they made our trip special.",Positive,Positive
+Just got back from a trip to the Atlas Mountains and it was life-changing 🏔️,Positive,Positive
+"Marrakech is a total wow, the Jemaa el-Fna square at night is like nothing I've seen before! 🌃",Positive,Positive
+"The architecture in Marrakech is stunning, but some areas feel really run down 🏙️",Neutral,Positive
+"Took a cooking class and learned how to make traditional tagine, it was so much fun! 🍲",Positive,Positive
