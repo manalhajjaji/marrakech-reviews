@@ -4,7 +4,7 @@ import os
 
 st.set_page_config(page_title="Accueil", page_icon="🕌", layout="wide")
 
-image_path = "App/assets/marrakech.jpg"
+image_path = "app/assets/marrakech.jpg"
 
 if os.path.exists(image_path):
     image = Image.open(image_path)
