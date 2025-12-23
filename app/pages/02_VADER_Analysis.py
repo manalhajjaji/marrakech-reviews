@@ -31,8 +31,8 @@ st.caption("Évaluation des avis touristiques de Marrakech à l’aide d’un mo
 
 
 # Chargement des fichiers
-df_vader_full = pd.read_csv("../data/processed/results_vader.csv")
-df_vader_test = pd.read_csv("../data/processed/results_vader_test.csv")
+df_vader_full = pd.read_csv("data/processed/results_vader.csv")
+df_vader_test = pd.read_csv("data/processed/results_vader_test.csv")
 
 # Section explication générale sur VADER
 st.markdown("## 🔎 Présentation du modèle VADER")

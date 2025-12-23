@@ -28,8 +28,8 @@ st.title(" Analyse de Sentiments avec RoBERTa")
 st.caption("Évaluation des avis touristiques de Marrakech à l’aide d’un modèle Transformer pré-entraîné")
 
 # Chargement des fichiers
-df_roberta_full = pd.read_csv("../data/processed/results_roberta.csv")
-df_roberta_test = pd.read_csv("../data/processed/results_roberta_test.csv")
+df_roberta_full = pd.read_csv("data/processed/results_roberta.csv")
+df_roberta_test = pd.read_csv("data/processed/results_roberta_test.csv")
 
 # Section explication générale sur RoBERTa
 st.markdown("## 🔎 Présentation du modèle RoBERTa")

@@ -29,7 +29,7 @@ st.caption("Modèle de régression logistique entraîné de zéro sur les avis t
 
 # Chargement des fichiers
 # Note : Tu n’as que le test set pour From Scratch → on travaille dessus
-df_fromscratch_test = pd.read_csv("../data/processed/results_fromscratch_test.csv")
+df_fromscratch_test = pd.read_csv("data/processed/results_fromscratch_test.csv")
 
 # Section explication générale sur le modèle From Scratch
 st.markdown("## 🔎 Présentation du modèle From Scratch")
